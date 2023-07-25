@@ -26,12 +26,36 @@ A few weeks ago, I was backpacking on the Superior Hiking Trail and had the chan
     Beaver River (source: author)
 </div>
 
-
 I am incredibly grateful for the opportunities my life has provided to participate in the activities, rituals, and institutions of western society, but, as my participation in these has increased, so too have the transaction costs, which waste our time, frustrate us, and deprive us of perspective. One one hand, these can be written off as the price we pay to enjoy society's abstractions; on the other, they make life less fulfilling and breed resentment against the very abstraction that has made the material quality of life improve so much in the last century.
 
 Our modern preoccupation with objects, while not necessarily different from past societies, is exacerbated by the massive increase in our capacity for consumption. This is fundamentally related to Jung's extroverted thinking type, who strives to align his activities with preconceived notions about the world. As Jung describes, "The extroverted thinking type will, by definition, be a man whose constant endeavor - in so far, of course, as he is a pure type - is to make all his activities dependent on intellectual conclusions, which in the last resort are always oriented by objective data, whether these be external facts or generally accepted ideas." <d-cite key="jung1921psychological"></d-cite> Consequently, we are constantly engaged in the construction of social masks, facilitated both directly, as in the wearing of costumes or getting botox, and indirectly, like the selective distribution of information about the self over social media. The use of masks is not a new phenomenon, but it has been amplified in our current era.
 
 One of the most intriguing "masks" is the concept of the third eye, an introspective tool used to understand and realize certain truths about oneself.<d-cite key="napier1987masks"></d-cite> As Frank Herbert writes in Dune, “I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.” <d-cite key="herbert1965dune"></d-cite> This introspection can be a troubling business, leading us to question whether we need an escape. One option is to retreat from society and spend our lives in contemplation, but a more appealing alternative might be to lean into the world we've created and cultivate more reasonable forms of meaning. This could involve cultivating flow, as Csikszentmihalyi suggests <d-cite key="csikszentmihalyi1997finding"></d-cite>, or developing an Autotelic personality, where we focus on the activity itself rather than its purpose. This would free us from the constraints of the "extroverted thinker" and allow us to enjoy activities for their own sake.
+
+After sitting awhile in Beaver River, I rose from the water and a sweet summer breeze ran across my limbs, giving me a sense of wellbeing. One of my favorite pieces of literature that I remember from my youth is Chaucer's Canterbury Tales, which mentions the Zephyrus, the Greek personification of the west wind.
+
+<div class="poem">
+    <div class="stanza">
+        <div class="line">
+            <div class="original">Whan Zephirus eek with his sweete breeth</div>
+            <div class="translation">When the West Wind also with its sweet breath,</div>
+        </div>
+        <div class="line">
+            <div class="original">Inspired hath in every holt and heeth</div>
+            <div class="translation">In every wood and field has breathed life into</div>
+        </div>
+        <div class="line">
+            <div class="original">The tendre croppes, and the yonge sonne</div>
+            <div class="translation">The tender new leaves, and the young sun</div>
+        </div>
+        <div class="line">
+            <div class="original">Hath in the Ram his half cours yronne,</div>
+            <div class="translation">Has run half its course in Aries,</div>
+        </div>
+    </div>
+</div>
+
+So, in honor of this experience, I will call this blog `zephyrus`. I pray it be a summer breeze to those who read it.
 
 <!--
 
