@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Sig
-middle_name: O.
+middle_name: 
 last_name: Janoska-Bedi
 email: sbedi@wisc.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -298,7 +298,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: ['meta', 'institutions', 'classics', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['updates'] # these categories will be displayed on the front page of your blog
+display_categories: ['updates', 'notes', 'reflections'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
