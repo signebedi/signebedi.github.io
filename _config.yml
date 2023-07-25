@@ -206,6 +206,7 @@ kramdown:
 # Includes & excludes
 include: ['_pages']
 exclude:
+  - README.md
   - bin
   - Gemfile
   - Gemfile.lock
@@ -236,7 +237,7 @@ exclude:
   - _posts/2023-07-04-jupyter-notebook.md
   - _posts/2023-07-12-post-bibliography.md
   # - _pages/about.md
-  - _pages/cv.md
+  # - _pages/cv.md
   - _pages/dropdown.md
   - _pages/projects.md
   - _pages/publications.md
