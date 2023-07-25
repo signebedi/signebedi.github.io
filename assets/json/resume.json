@@ -23,31 +23,48 @@
   "work": [
     {
       "name": "Government Accountability Office (GAO)",
+      "url":"https://www.gao.gov/",
       "position": "Senior Analyst, Applied Research & Methods",
       "startDate": "2022-07-01",
       "endDate": "Present"
     },
     {
       "name": "University of Wisconsin-Madison Department of Political Science",
-      "position": "Teaching Assistant - The European Union",
+      "url":"https://polisci.wisc.edu/",
+      "position": "Teaching Assistant",
+      "summary":"Liberalism and Conservatism in the United States",
+      "startDate": "2023-08-01",
+      "endDate": "2023-12-01"
+    },
+    {
+      "name": "University of Wisconsin-Madison Department of Political Science",
+      "url":"https://polisci.wisc.edu/",
+      "position": "Teaching Assistant",
+      "summary":"The European Union",
       "startDate": "2023-01-01",
       "endDate": "2023-05-01"
     },
     {
       "name": "University of Wisconsin-Madison Department of Political Science",
-      "position": "Teaching Assistant - Russian Invasion of Ukraine",
+      "url":"https://polisci.wisc.edu/",
+      "position": "Teaching Assistant",
+      "summary":"Russian Invasion of Ukraine",
       "startDate": "2022-08-01",
       "endDate": "2022-12-01"
     },
     {
       "name": "University of Wisconsin-Madison Department of Political Science",
-      "position": "Teaching Assistant - Introduction to American Government",
+      "url":"https://polisci.wisc.edu/",
+      "position": "Teaching Assistant",
+      "summary":"Introduction to American Government",
       "startDate": "2018-08-01",
       "endDate": "2019-05-01"
     },
     {
       "name": "University of Wisconsin-Madison Department of Political Science",
-      "position": "Teaching Assistant - Introduction to International Relations",
+      "url":"https://polisci.wisc.edu/",
+      "position": "Teaching Assistant",
+      "summary":"Introduction to International Relations",
       "startDate": "2017-08-01",
       "endDate": "2018-01-01"
     }
@@ -55,6 +72,7 @@
   "volunteer": [
     {
       "organization": "Sifting & Winnowing (S&W)",
+      "url":"https://www.siftingwinnowing.org/",
       "position": "Managing Director, Sifting & Winnowing (S&W) Foundation",
       "startDate": "2018-05-01"
     }
@@ -62,6 +80,7 @@
   "education": [
     {
       "location": "Madison, WI",
+      "url":"https://law.wisc.edu/",
       "institution": "University of Wisconsin-Madison",
       "area": "Juris Doctor (JD)",
       "studyType": "JD",
@@ -70,6 +89,7 @@
     },
     {
       "location": "Oxford, GB",
+      "url":"https://www.classics.ox.ac.uk/",
       "institution": "University of Oxford",
       "area": "Greek and Roman History",
       "studyType": "Master of Studies (MSt) with Distinction",
@@ -78,6 +98,7 @@
     },
     {
       "location": "Madison, WI",
+      "url":"https://lafollette.wisc.edu/",
       "institution": "La Follette School of Public Affairs",
       "area": "International Public Affairs",
       "studyType": "Master of Arts (MA)",
@@ -86,6 +107,7 @@
     },
     {
       "location": "Madison, WI",
+      "url":"https://www.wisc.edu/",
       "institution": "University of Wisconsin-Madison",
       "area": "Political Science, Classical Humanities, European Studies",
       "studyType": "Bachelor of Arts with Comprehensive Honors",
