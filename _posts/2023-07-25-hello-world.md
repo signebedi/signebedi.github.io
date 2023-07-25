@@ -7,13 +7,13 @@ tags: meta
 categories: essays
 related_posts: false
 giscus_comments: true
-related_publications: csikszentmihalyi1997finding, napier1987masks, jung1921psychological, herbert1965dune
+# related_publications: csikszentmihalyi1997finding, napier1987masks, jung1921psychological, herbert1965dune
 authors:
   - name: Sig Janoska-Bedi
     url: "https://signebedi.github.io"
     affiliations:
       name: University of Wisconsin-Madison
-# bibliography: 2018-12-22-distill.bib
+bibliography: 2023-07-25-hello-world.bib
 ---
 A few weeks ago, I was backpacking on the Superior Hiking Trail and had the chance to relax with my group at Beaver River, a trail and campground north of Two Harbors, MN. The site had access to the water, which was cool, gently-flowing, and soothing. I spent some time sitting half-submerged and enjoyed the tranquil sounds of birdsong, the rustling of leaves in the wind, and the water lapping against nearby stones as my group set up camp. I closed my eyes and pictured a knot unwinding against the sensation of water rising and falling against my back & my life stressors left my body.
 
