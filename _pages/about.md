@@ -11,7 +11,8 @@ profile:
   # address: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+    # <p>Your City, State 12345</p>
+    <p>Madison, WI</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a software engineer, classicist, and social scientist interested generally in political crisis, institutions, and executive prerogative. To that end, I enjoy building logical, extensible systems and APIS. I have a narrow-ish academic focus on the Roman late-republic and later Caesar-biography. I like to write, hike, and jumping through bureaucratic hurdles to stay in shape.
+I am a software engineer, classicist, and social scientist interested generally in political crisis, institutions, and executive prerogative. To that end, I enjoy building logical, extensible systems and APIs. I have a narrow-ish academic focus on the Roman late-republic and later Caesar-biography. I am a Red Hat Certified System Administrator (RHCSA) with about fifteen years experience managing Unix systems, developing software, and analyzing data. I like to write, hike, and jump through bureaucratic hurdles to stay in shape.
 
 
 <!--
