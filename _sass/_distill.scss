@@ -149,3 +149,24 @@ d-appendix {
     }
   }
 }
+
+.poem {
+  margin: 20px 0;
+}
+
+.stanza {
+  margin-bottom: 20px;
+}
+
+.line {
+  display: flex;
+  justify-content: space-between;
+}
+
+.original {
+  font-style: italic;
+}
+
+.translation {
+  font-weight: bold;
+}
