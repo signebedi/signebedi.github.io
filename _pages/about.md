@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a software engineer, classicist, and social scientist interested generally in political crisis, institutions, and executive prerogative. I have a narrow-ish academic focus on the Roman late-republic and later Caesar-biography. I like to write, hike, and jumping through bureaucratic hurdles to stay in shape.
+I am a software engineer, classicist, and social scientist interested generally in political crisis, institutions, and executive prerogative. To that end, I enjoy building logical, extensible systems and APIS. I have a narrow-ish academic focus on the Roman late-republic and later Caesar-biography. I like to write, hike, and jumping through bureaucratic hurdles to stay in shape.
 
 
 <!--
