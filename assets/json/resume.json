@@ -26,29 +26,27 @@
       "position": "Senior Analyst, Applied Research & Methods",
       "startDate": "2022-07-01",
       "endDate": "Present"
-    }
-  ],
-  "teaching": [
+    },
     {
-      "institution": "University of Wisconsin-Madison Department of Political Science",
+      "name": "University of Wisconsin-Madison Department of Political Science",
       "position": "Teaching Assistant - The European Union",
       "startDate": "2023-01-01",
       "endDate": "2023-05-01"
     },
     {
-      "institution": "University of Wisconsin-Madison Department of Political Science",
+      "name": "University of Wisconsin-Madison Department of Political Science",
       "position": "Teaching Assistant - Russian Invasion of Ukraine",
       "startDate": "2022-08-01",
       "endDate": "2022-12-01"
     },
     {
-      "institution": "University of Wisconsin-Madison Department of Political Science",
+      "name": "University of Wisconsin-Madison Department of Political Science",
       "position": "Teaching Assistant - Introduction to American Government",
       "startDate": "2018-08-01",
       "endDate": "2019-05-01"
     },
     {
-      "institution": "University of Wisconsin-Madison Department of Political Science",
+      "name": "University of Wisconsin-Madison Department of Political Science",
       "position": "Teaching Assistant - Introduction to International Relations",
       "startDate": "2017-08-01",
       "endDate": "2018-01-01"
@@ -63,35 +61,36 @@
   ],
   "education": [
     {
+      "location": "Madison, WI",
       "institution": "University of Wisconsin-Madison",
       "area": "Juris Doctor (JD)",
       "studyType": "JD",
       "startDate": "2021-09-01",
-      "endDate": "Present",
-      "courses": ["Executive Powers", "Administrative Law", "Transactions", "Business Organizations"]
+      "endDate": "Present"
     },
     {
+      "location": "Oxford, GB",
       "institution": "University of Oxford",
       "area": "Greek and Roman History",
-      "studyType": "Master of Studies (MSt)",
+      "studyType": "Master of Studies (MSt) with Distinction",
       "startDate": "2020-10-01",
       "endDate": "2021-07-31"
     },
     {
+      "location": "Madison, WI",
       "institution": "La Follette School of Public Affairs",
       "area": "International Public Affairs",
-      "studyType": "Master",
+      "studyType": "Master of Arts (MA)",
       "startDate": "2017-09-01",
-      "endDate": "2019-05-01",
-      "courses": ["Executive Powers", "Technology & Innovation", "Global Governance"]
+      "endDate": "2019-05-01"
     },
     {
+      "location": "Madison, WI",
       "institution": "University of Wisconsin-Madison",
-      "area": "Political Science, Classical Humanities",
+      "area": "Political Science, Classical Humanities, European Studies",
       "studyType": "Bachelor of Arts with Comprehensive Honors",
       "startDate": "2014-09-01",
-      "endDate": "2017-09-01",
-      "courses": ["European Studies"]
+      "endDate": "2017-09-01"
     }
   ],
   "publications": [
