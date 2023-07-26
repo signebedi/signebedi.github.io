@@ -15,7 +15,7 @@ authors:
       name: University of Wisconsin-Madison
 bibliography: 2023-07-25-hello-world.bib
 ---
-A few weeks ago, I was backpacking on the Superior Hiking Trail and had the chance to relax with my group at Beaver River, a trail and campground north of Two Harbors, MN. The site had access to the water, which was cool, gently-flowing, and soothing. I spent some time sitting half-submerged and enjoyed the tranquil sounds of birdsong, the rustling of leaves in the wind, and the water lapping against nearby stones as my group set up camp. I closed my eyes and pictured a knot unwinding against the sensation of water rising and falling against my back & my life stressors left my body.
+A few weeks ago, I was backpacking on the Superior Hiking Trail and had the chance to relax with my group at Beaver River, a trail and campground north of Two Harbors, MN. The site had access to the water, which was cool, gently-flowing, and soothing. I spent some time sitting half-submerged and enjoyed the tranquil sounds of birdsong, the rustling of leaves in the wind, and the water lapping against nearby stones as my group set up their tents. I closed my eyes and pictured a knot unwinding as the water rose and fell against my back. I felt at once in tune with myself and with my surroundings as I felt my life's stressors leaving my body.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -26,15 +26,50 @@ A few weeks ago, I was backpacking on the Superior Hiking Trail and had the chan
     Beaver River (source: author)
 </div>
 
-I am incredibly grateful for the opportunities my life has provided to participate in the activities, rituals, and institutions of western society, but, as my participation in these has increased, so too have the transaction costs, which waste our time, frustrate us, and deprive us of perspective. One one hand, these can be written off as the price we pay to enjoy society's abstractions; on the other, they make life less fulfilling and breed resentment against the very abstraction that has made the material quality of life improve so much in the last century.
+I am incredibly grateful for the opportunities my life has provided to participate in the activities, rituals, and institutions of western society, but, as my participation in these has increased, so too have the transaction costs, which waste our time, frustrate us, and deprive us of perspective. On one hand, these can be written off as the price we pay to enjoy society's abstractions; on the other, they make life less fulfilling and breed resentment against the very abstraction that has made the material quality of life improve so much in the last century.
 
 What strikes me most about modernity is our remarkable preoccupation with objects. That's not to say that past societies were unconcerned with material culture, but that the increased scale of consumption has made the object the most available locus of experience. In his writings on personality typology, C.J. Jung stated that "the extroverted thinking type will, by definition, be a man whose constant endeavor - in so far, of course, as he is a pure type - is to make all his activities dependent on intellectual conclusions, which in the last resort are always oriented by objective data, whether these be external facts or generally accepted ideas." <d-cite key="jung1921psychological"></d-cite> Likewise, the modern west rewards the extroverted thinkers with plenty of objects through which to analyze the world, and at the same time deprives their counterparts - the introverted feeling types - of proportionately meaningful symbols.
 
-Preoccupation with the object means that we are all wearing masks when we participate in social instututions, because we are engaging with things outside of ourselves and not seriously engaging with the subjective aspects of ourselves. Masks are far from a new phenomenon, but modernity has given them new forms: literal mask wearing, like Comic-Con attendees dressing as their favorite heroes and villains; physical masks, like a face-lift or plastic surgery; abstract masks, like a professionally-curated social media presence - all of these have given us new pathways to hide ourselves away from each other, and from ourselves.
+Preoccupation with the object means that we are all wearing masks when we participate in social instututions, because we are engaging with things outside of ourselves and not seriously engaging with the subjective aspects of ourselves. Masks are far from a new phenomenon, but modernity has given them new forms: literal mask wearing, like Comic-Con attendees dressing as their favorite heroes and villains; physical masks, like a face-lift or plastic surgery; abstract masks, like a professionally-curated social media presence - all of these have given us new pathways to hide ourselves away from each other, and from ourselves. But not all masks are about hiding. For example, the image of the third eye is commonly used in art to represent introspection and self-awareness, helping us understand and realize certain truths about ourselves.<d-cite key="napier1987masks"></d-cite> It is commonly worn in subcontinental culture as a tilaka (also commonly called a tika), which is a form of design drawn on a person's forehead.
 
-One of the most intriguing masks is that of the third eye, an image that symbolizes a looking-inward, which helps us understand and realize certain truths about ourselves.<d-cite key="napier1987masks"></d-cite> But, just as the third eye gazes inward, it is also an instrument of destruction as we uproot those things about ourselves that are not desirable and force a reckoning with subjective experience. In that way, it is sort of an "anti-mask", as we train it inward as a way of realization rather than display it outward as a form of obfuscation.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2023-07-25-tika.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Nepali sadhu with a tilaka on his forehead (source: <a href="https://commons.wikimedia.org/wiki/File:Kathmandu,_Nepal,_Sadhu.jpg">Vyacheslav Argenberg / http://www.vascoplanet.com/</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons)
+</div>
 
-My favorite illustration of this anti-mask is Frank Herbert's Litany Against, “I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.”<d-cite key="herbert1965dune"></d-cite> Introspection can be a troubling business because it forces us to confront certain aspects of ourselves about which we are least comfortable and have hidden away from the gaze of others. But to build a life that is fulfilling, we must sometimes endure discomfort. Some people reject, rebel, or run away from themselves (through vapid consumerism and a brain left hazy by pop culture) or from society (like a hermit who goes to live in the woods); but there may be a third option in the cultivation of flow, by which I mean the feeling ecstasy that we experience through total, active involvement of the self with the world around it.<d-cite key="csikszentmihalyi1997finding"></d-cite> Flow is interesting to me because it is something that allows us to immerse ourselves in social acitivities without alienating us from our selves.Related to this is the idea of the "Autotelic personality," a type of person who enjoys activities for their own sake, rather than for the benefits they might bestow.
+But, just as the third eye gazes inward, it is also an instrument of destruction as we uproot those things about ourselves that are not desirable, forcing us to reckon with our subjective experience. In that way, it is sort of an "anti-mask", as we train it inward just as we might display it outward; we employ it as a way of realization, rather than as a form of obfuscation. My favorite illustration of the third eye serving this function is Frank Herbert's Litany Against Fear, where characters invoke the image to see and overcome fear.<d-cite key="herbert1965dune"></d-cite>
+
+<div class="poem">
+    <div class="stanza">
+        <div class="line">
+            <div class="original">I must not fear. Fear is the mind-killer.</div>
+        </div>
+        <div class="line">
+            <div class="original">Fear is the little-death that brings total obliteration.</div>
+        </div>
+        <div class="line">
+            <div class="original">I will face my fear.</div>
+        </div>
+        <div class="line">
+            <div class="original">I will permit it to pass over me and through me.</div>
+        </div>
+        <div class="line">
+            <div class="original">And when it has gone past I will turn the inner eye to see its path.</div>
+        </div>
+        <div class="line">
+            <div class="original">Where the fear has gone there will be nothing.</div>
+        </div>
+        <div class="line">
+            <div class="original">Only I will remain.</div>
+        </div>
+    </div>
+</div>
+
+Introspection can be a troubling business because it forces us to confront certain aspects of ourselves about which we are least comfortable and have hidden away from the gaze of others. But to build a life that is fulfilling, we must sometimes endure discomfort. Some people reject, rebel, or run away from themselves (through vapid consumerism and a brain left hazy by pop culture) or from society (like a hermit who goes to live in the woods); but there may be a third option in the cultivation of flow, by which I mean the feeling ecstasy that we experience through total, active involvement of the self with the world around it.<d-cite key="csikszentmihalyi1997finding"></d-cite> Flow is interesting to me because it is something that allows us to immerse ourselves in social acitivities without alienating us from our selves. Related to this is the idea of the "Autotelic personality," a type of person who enjoys activities for their own sake, rather than for the benefits they might bestow.
 
 After sitting awhile in Beaver River, I rose from the water and the summer breeze ran sweetly across my limbs, filling me with a sense of wellbeing. It recalled a verse I had memorized in my youth.<d-cite key="chaucer2023"></d-cite>
 
