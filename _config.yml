@@ -299,9 +299,11 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 # display_tags: ['meta', 'institutions', 'classics', 'code'] # these tags will be displayed on the front page of your blog
-display_tags: ['meta', 'code'] # these tags will be displayed on the front page of your blog
+# display_tags: ['meta', 'code'] 
+display_tags: ['meta'] 
 # display_categories: ['updates', 'notes', 'reflections'] # these categories will be displayed on the front page of your blog
-display_categories: ['updates', 'essays'] # these categories will be displayed on the front page of your blog
+# display_categories: ['updates', 'essays'] 
+display_categories: ['essays'] 
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
