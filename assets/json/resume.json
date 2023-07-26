@@ -29,6 +29,36 @@
       "endDate": "Present"
     },
     {
+      "name": "Government Accountability Office (GAO)",
+      "url":"https://www.gao.gov/",
+      "position": "Analyst, Science, Technology Assessment, & Analytics",
+      "startDate": "2020-05-01",
+      "endDate": "2022-07-01"
+    },
+    {
+      "name": "Government Accountability Office (GAO)",
+      "url":"https://www.gao.gov/",
+      "position": "Data Analyst, Applied Research & Methods",
+      "startDate": "2020-01-01",
+      "endDate": "2020-05-01"
+    },
+    {
+      "name": "Government Accountability Office (GAO)",
+      "url":"https://www.gao.gov/",
+      "position": "Analyst, Contracting & National Security Acquisitions",
+      "startDate": "2019-05-01",
+      "endDate": "2020-01-01"
+    },
+    {
+      "name": "Government Accountability Office (GAO)",
+      "url":"https://www.gao.gov/",
+      "position": "Analyst, Defense Capabilities & Management",
+      "startDate": "2018-01-01",
+      "endDate": "2018-06-01"
+    }
+  ],
+  "teaching": [
+    {
       "name": "University of Wisconsin-Madison Department of Political Science",
       "url":"https://polisci.wisc.edu/",
       "position": "Teaching Assistant",
@@ -120,6 +150,12 @@
       "name": "Facial Recognition Technology: Current and Planned Uses by Federal Agencies",
       "publisher": "United States Government Accountability Office",
       "releaseDate": "2021-01-01",
+      "website": "https://www.gao.gov/products/gao-21-526"
+    },
+    {
+      "name": "What Constitutes a Legally Sufficient Electronic Signature? The “audit-trail problem” and its implications for courts, firms, and software developers",
+      "publisher": "Working paper, University of Wisconsin-Madison, Law School",
+      "releaseDate": "2023-05-01",
       "website": ""
     },
     {
@@ -136,25 +172,25 @@
     },
     {
       "name": "The Iulii, Cossutii, and Pisa",
-      "publisher": "Working paper",
-      "releaseDate": "2021-01-01",
+      "publisher": "Working paper, Oxford University, Department of Classics",
+      "releaseDate": "2020-10-01",
       "website": ""
     },
     {
-      "name": "Increased Oversight Needed to Reduce the Risk Associated with Contractors Performing Certain Functions",
+      "name": "DHS Service Contracts: Increased Oversight Needed to Reduce the Risk Associated with Contractors Performing Certain Functions",
       "publisher": "United States Government Accountability Office",
       "releaseDate": "2020-01-01",
-      "website": ""
+      "website": "https://www.gao.gov/products/GAO-20-417"
     },
     {
       "name": "Silent Dangers: Assessing the Threat of Nuclear Submarines",
       "publisher": "Outrider Foundation",
       "releaseDate": "2019-01-01",
-      "website": ""
+      "website": "https://lafollette.wisc.edu/research/silent-dangers-assessing-the-threat-of-nuclear-submarines/"
     },
     {
       "name": "Caesar's Clemency: institutum meum as nova ratio for Civil War",
-      "publisher": "Working paper",
+      "publisher": "Working paper, University of Wisconsin-Madison, Department of History",
       "releaseDate": "2019-01-01",
       "website": ""
     },
@@ -162,43 +198,43 @@
       "name": "Electing the Supreme Court",
       "publisher": "Kennedy School Review",
       "releaseDate": "2019-01-01",
-      "website": ""
+      "website": "https://drive.google.com/file/d/1oTodEhicBCCS57JGncSnjBrPcBZ1TdzB/view"
     },
     {
-      "name": "DOD Should Assess the Tradeoffs Associated With Expanding Public Access to and Information About Terrorism Trials",
+      "name": "Military Courts: DOD Should Assess the Tradeoffs Associated With Expanding Public Access to and Information About Terrorism Trials",
       "publisher": "United States Government Accountability Office",
       "releaseDate": "2019-01-01",
-      "website": ""
+      "website": "https://www.gao.gov/products/gao-19-283"
     },
     {
       "name": "How the EITC Contributes to Race-based Wealth Disparities",
       "publisher": "S&W Ideas Conference Papers",
       "releaseDate": "2018-01-01",
-      "website": ""
+      "website": "https://drive.google.com/file/d/1bH5XsYu-D-C2Dq7t7cfnj5CnYtU1mrQP/view"
     },
     {
-      "name": "Collecting Additional Data Could Enhance DOD Pilot Retention Efforts",
+      "name": "Military Personnel: Collecting Additional Data Could Enhance DOD Pilot Retention Efforts",
       "publisher": "United States Government Accountability Office",
       "releaseDate": "2018-01-01",
-      "website": ""
+      "website": "https://www.gao.gov/products/gao-18-439"
     },
     {
       "name": "Future of EU Security in a Time of Transatlantic Uncertainty",
       "publisher": "Harvard European Student Review",
       "releaseDate": "2018-01-01",
-      "website": ""
+      "website": "https://web.archive.org/web/20180605113337/https://www.hcesreview.com/blog/2018/5/18/the-future-of-eu-security-in-a-time-of-transatlantic-uncertainty"
     },
     {
       "name": "To Fix the Divide, First We All Must Serve",
       "publisher": "Save Liberal Democracy",
       "releaseDate": "2018-01-01",
-      "website": ""
+      "website": "https://web.archive.org/web/20180816173849/https://saveliberaldemocracy.com/2018/01/15/to-fix-the-divide-first-we-all-must-serve/"
     },
     {
       "name": "Integrating the EU Approach to Counterterrorism",
       "publisher": "Review of European & Transatlantic Affairs",
       "releaseDate": "2017-01-01",
-      "website": ""
+      "website": "https://drive.google.com/open?id=1vEzFHzy6Xb-ezFmFkAngMusiiwBgzbqm"
     }
   ]
 }
