@@ -45,24 +45,31 @@ But, just as the third eye gazes inward, it is also an instrument of destruction
 <div class="poem">
     <div class="stanza">
         <div class="line">
+            <div class="original"></div>
             <div class="translation">I must not fear. Fear is the mind-killer.</div>
         </div>
         <div class="line">
+            <div class="original"></div>
             <div class="translation">Fear is the little-death that brings total obliteration.</div>
         </div>
         <div class="line">
+            <div class="original"></div>
             <div class="translation">I will face my fear.</div>
         </div>
         <div class="line">
+            <div class="original"></div>
             <div class="translation">I will permit it to pass over me and through me.</div>
         </div>
         <div class="line">
+            <div class="original"></div>
             <div class="translation">And when it has gone past I will turn the inner eye to see its path.</div>
         </div>
         <div class="line">
+            <div class="original"></div>
             <div class="translation">Where the fear has gone there will be nothing.</div>
         </div>
         <div class="line">
+            <div class="original"></div>
             <div class="translation">Only I will remain.</div>
         </div>
     </div>
@@ -70,7 +77,7 @@ But, just as the third eye gazes inward, it is also an instrument of destruction
 
 Introspection can be a troubling business because it forces us to confront certain aspects of ourselves about which we are least comfortable and have hidden away from the gaze of others. But to build a life that is fulfilling, we must sometimes endure discomfort. Some people reject, rebel, or run away from themselves (through vapid consumerism and a brain left hazy by pop culture) or from society (like a hermit who goes to live in the woods); but there may be a third option in the cultivation of flow, by which I mean the feeling ecstasy that we experience through total, active involvement of the self with the world around it. <d-footnote>Csikszentmihalyi (1997). 71.</d-footnote> Flow is interesting to me because it is something that allows us to immerse ourselves in social acitivities without alienating us from our selves. Related to this is the idea of the "Autotelic personality," a type of person who enjoys activities for their own sake, rather than for the benefits they might bestow.
 
-I am somebody who primarily views the world through the lens of `interfaces`. Facilitating interconnectivity between systems - in the abstract sense - is a deeply pleasing process that is, to me, its own reward. What I appreciated about the moments I spent submerged in Beaver River were the sparks of interconnectivity I felt between my subjective self and the objective world around it as I eased gently into a flow state. After sitting awhile in Beaver River, I rose from the water and the summer breeze ran sweetly across my limbs, filling me with a sense of wellbeing. It recalled a verse I had memorized in my youth. <d-footnote>Chaucer (c. 1400). 1.1</d-footnote>
+I am somebody who primarily views the world through the lens of `interfaces`. Facilitating interconnectivity between systems - in the abstract sense - is a deeply pleasing process that is, to me, its own reward. What I appreciated about the moments I spent submerged in Beaver River were the sparks of interconnectivity I felt between my subjective self and the objective world around it as I eased gently into a flow state. After sitting awhile in Beaver River, I rose from the water and the summer breeze ran sweetly across my limbs, filling me with a sense of wellbeing. It recalled a verse I had memorized in my youth. <d-footnote>Chaucer (c. 1400). 1.1.</d-footnote>
 
 <div class="poem">
     <div class="stanza">
