@@ -77,7 +77,11 @@ But, just as the third eye gazes inward, it is also an instrument of destruction
 
 Introspection can be a troubling business because it forces us to confront certain aspects of ourselves about which we are least comfortable and have hidden away from the gaze of others. But to build a life that is fulfilling, we must sometimes endure discomfort. Some people reject, rebel, or run away from themselves (through vapid consumerism and a brain left hazy by pop culture) or from society (like a hermit who goes to live in the woods); but there may be a third option in the cultivation of flow, by which I mean the feeling ecstasy that we experience through total, active involvement of the self with the world around it. <d-footnote>Csikszentmihalyi (1997). 71.</d-footnote> Flow is interesting to me because it is something that allows us to immerse ourselves in social acitivities without alienating us from our selves. Related to this is the idea of the "Autotelic personality," a type of person who enjoys activities for their own sake, rather than for the benefits they might bestow.
 
-I am somebody who primarily views the world through the lens of `interfaces`. Facilitating interconnectivity between systems - in the abstract sense - is a deeply pleasing process that is, to me, its own reward. What I appreciated about the moments I spent submerged in Beaver River were the sparks of interconnectivity I felt between my subjective self and the objective world around it as I eased gently into a flow state. After sitting awhile in Beaver River, I rose from the water and the summer breeze ran sweetly across my limbs, filling me with a sense of wellbeing. It recalled a verse I had memorized in my youth. <d-footnote>Chaucer (c. 1400). 1.1.</d-footnote>
+I am somebody who primarily views the world through the lens of `interfaces`. Facilitating interconnectivity between systems - in the abstract sense - is a deeply pleasing process that is, to me, its own reward. 
+
+The idea of starting a blog is, in many ways, antithetical to my [midwest-nice](https://www.urbandictionary.com/define.php?term=Midwest%20Nice) outlook toward life, which entails (amongst other things) an appreciation of humility in myself and others. Something about writing about myself or, even worse, presuming others might want to read about me strikes me as particularly self-indulgent and inconsistent with my worldview. But I've been inspired here to do so by factors other than self-indulgence, arrogance, or self-serving. At the risk of attenuating my argument, there's a great essay by David Foster Wallace - well rehearsed at this point in many English departments, but nonetheless useful to us here - where he tells the story of a religious man and an atheist arguing over the existence of god and, when the atheist talks about praying to be saved from a snowstorm a few weeks before, the religious man is convinced that it was God who saved him, while the atheist wrote it off as a few passers-by who pulled him from the snow.<d-footnote>Wallace (2009).</d-footnote> Wallace's point, if any, is to point out the subjective beliefs that each man mapped onto the atheist's experience in the snow. 
+
+What I appreciated about the moments I spent submerged in Beaver River were the sparks of interconnectivity I felt between my subjective self and the objective world around it as I eased gently into a flow state. After sitting awhile in Beaver River, I rose from the water and the summer breeze ran sweetly across my limbs, filling me with a sense of wellbeing. It recalled a verse I had memorized in my youth. <d-footnote>Chaucer (c. 1400). 1.1.</d-footnote>
 
 <div class="poem">
     <div class="stanza">
@@ -100,7 +104,7 @@ I am somebody who primarily views the world through the lens of `interfaces`. Fa
     </div>
 </div>
 
-The idea of starting a blog is, in many ways, antithetical to my [midwest-nice](https://www.urbandictionary.com/define.php?term=Midwest%20Nice) outlook toward life, which entails (amongst other things) an appreciation of humility in myself and others. Something about writing about myself or, even worse, presuming others might want to read about me strikes me as particularly self-indulgent and inconsistent with my worldview. But I've been inspired here to do so by factors other than self-indulgence, arrogance, or self-serving. So, I've decided to call this blog `zephyrus`, something I am doing 'for its own sake' where I can lay down the masks compelled unto me by society and reflect upon & celebrate those aspects of natural beauty, individual uniqueness. I hope that, like a summer breeze, it is a source of comfort to you as it is to me.
+So, I've decided to call this blog `zephyrus`, something I am doing 'for its own sake' where I can lay down the masks compelled unto me by society and reflect upon & celebrate themes of natural beauty, individual uniqueness through the intellectual lenses available to me, like literature, history, computer science, law, etc. I hope that, like a summer breeze, it is a source of comfort to you as it is to me.
 
 <div style="display: none;">
     <d-cite key="jung1921psychological"></d-cite>
@@ -108,6 +112,7 @@ The idea of starting a blog is, in many ways, antithetical to my [midwest-nice](
     <d-cite key="csikszentmihalyi1997finding"></d-cite>
     <d-cite key="herbert1965dune"></d-cite>
     <d-cite key="chaucer1400"></d-cite>
+    <d-cite key="wallace2009"></d-cite>
 </div>
 
 <!--
