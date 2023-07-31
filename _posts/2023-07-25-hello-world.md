@@ -78,7 +78,7 @@ Introspection can be a troubling business because it forces us to confront certa
 
 Take, for example, my decision to start this blog. In many ways, doing so is antithetical to my [midwest-nice](https://www.urbandictionary.com/define.php?term=Midwest%20Nice) outlook toward life, which entails, amongst other things, an appreciation of humility in myself and others. Something about writing about myself or, even worse, presuming others might want to read about me strikes me as particularly self-indulgent and inconsistent with my worldview. But I've been inspired here to do so by factors other than self-indulgence, arrogance, or self-serving. At the risk sounding somewhat attenuated, there's a great essay called "This is Water" by David Foster Wallace - well rehearsed across American college campuses at this point, but nonetheless useful to us here - where he tells the story of a religious man and an atheist arguing over the existence of god and, when the atheist talks about praying to be saved from a snowstorm a few weeks before, the religious man is convinced that it was God who saved him, while the atheist writes him off, instead dedicating his salvation to a few passers-by who pulled him from the snow.<d-footnote>Wallace (2009).</d-footnote> Wallace highlights how each man mapped his subjective beliefs onto the atheist's life-or-death experience, without necessarily directing their attention toward, or cultivating any manner of consciousness about, the other's perspective.
 
-I am somebody who primarily views the world through the lens of `interfaces`. Facilitating interconnectivity between systems - in the abstract sense - is a deeply pleasing process that is, to me, its own reward. I usually apply this idea to manmade systems, instruments, and ideas; but I am very grateful to have discovered that this concept is useful in other areas of life. What I appreciated about the moments I spent submerged in the Beaver River were the sparks of interconnectivity I felt between my subjective self and the objective world around it as my attention fastened to it. Throughout my life, I have often gone swimming when it was hot, and drunk fluids to satiate my thirst, but, in the theme of Wallace's essay, this was perhaps the first time I recognized that 'this is water.' After sitting awhile in the river, I stood up and let the summer breeze run across my limbs, filling me with a sense of wellbeing. It recalled a verse I had memorized in my youth. <d-footnote>Chaucer (c. 1400). 1.1.</d-footnote>
+I am somebody who primarily views the world through the lens of [interfaces](https://www.ibm.com/topics/api). Facilitating interconnectivity between systems - in the abstract sense - is a deeply pleasing process that is, to me, its own reward. I usually apply this idea to manmade systems, instruments, and ideas; but I am very grateful to have discovered that this concept is useful in other areas of life. What I appreciated about the moments I spent submerged in the Beaver River were the sparks of interconnectivity I felt between my subjective self and the objective world around it as my attention fastened to it. Throughout my life, I have often gone swimming when it was hot, and drunk fluids to satiate my thirst, but, in the theme of Wallace's essay, this was perhaps the first time I recognized that 'this is water.' After sitting awhile in the river, I stood up and let the summer breeze run across my limbs, filling me with a sense of wellbeing. It recalled a verse I had memorized in my youth. <d-footnote>Chaucer (c. 1400). 1.1.</d-footnote>
 
 <div class="poem">
     <div class="stanza">
@@ -101,7 +101,7 @@ I am somebody who primarily views the world through the lens of `interfaces`. Fa
     </div>
 </div>
 
-So, I've decided to call this blog `zephyrus`, something I am doing 'for its own sake' where I can lay down the masks compelled unto me by society and reflect upon & celebrate themes of aesthetic beauty and individual uniqueness through the intellectual lenses available to me, like literature, history, computer science, law, etc. I hope that, like a summer breeze, it is a source of comfort to you as it is to me.
+So, I've decided to call this blog [`zephyrus`](https://referenceworks.brillonline.com/entries/brill-s-new-pauly/zephyrus-e12216400), something I am doing 'for its own sake' where I can lay down the masks compelled unto me by society and reflect upon & celebrate themes of aesthetic beauty and individual uniqueness through the intellectual lenses available to me, like literature, history, computer science, law, etc. I hope that, like a summer breeze, it is a source of comfort to you as it is to me.
 
 <div style="display: none;">
     <d-cite key="jung1921psychological"></d-cite>
@@ -111,36 +111,3 @@ So, I've decided to call this blog `zephyrus`, something I am doing 'for its own
     <d-cite key="chaucer1400"></d-cite>
     <d-cite key="wallace2009"></d-cite>
 </div>
-
-<!--
-
-> The extraverted thinking type will, by definition, be a man whose constant endeavour - in so far, of course, as he is a pure type - is to make all his activities dependent on intellectual conclusions, which in the last resort are always oriented by objective data, whether these be external facts or generally accepted ideas. <d-cite key="jung1921psychological"></d-cite>
-
-
-
-Marie von Franz writes of the extraverted thinking type "". (ref: __)
-
-- Autotelic (ref: MIHALY CSIKSZENTMIHALYI, Finding Flow)
-- Social "Masks" (ref: )
-
-“I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.”
-― Frank Herbert, Dune
-
--->
-
-<!--
-I'd like to write my next paragraph with a focus on our preoccupation with objects which, while not necessarily different from past societies, is made worse by the massive increase in the capacity for consumption. This is related fundamentally to Jung's extroverted thinking type, who tries always to focus his activities on preconceived notions about the world:
-
-> The extroverted thinking type will, by definition, be a man whose constant endeavor - in so far, of course, as he is a pure type - is to make all his activities dependent on intellectual conclusions, which in the last resort are always oriented by objective data, whether these be external facts or generally accepted ideas. <d-cite key="jung1921psychological"></d-cite>
-
-Thus, we are engaged always in the construction of social masks - facilitated in real ways, as in the wearing of costumes or in getting botox; as well as in more indirect ways, like the selective distribution of information about the self over social media. Neither either is the use of mask any different from past times, see <d-cite key="napier1987masks"></d-cite>. But is has been made more extreme than in past times.
-
-But one of the most interesting "Masks" is the third eye - a conceptual eye that we train inward to look upon the self and understand / comprehend / realize a certain truth. Think eg. of Herbert's litany against fear:
-
-“I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.”
-― Frank Herbert, Dune
-
-But all of this is horrendously troubling business. What is the escape? Need we escape? It is one thing, to recede to the mountains and remain a hermit, contemplating inner truths for the rest of one's life. 
-
-Or, perhaps more preferable, we should lean into the world that we have created and cultivate more reasonable forms of meaning. For that reason, we should be mindful to cultivate flow, as in <d-cite key="csikszentmihalyi1997finding"></d-cite>. That is to say, to cultivate a focus and fascination with the object. Likewise, it is worth considering cultivating an Autotelic personality; that is, one where we focus on the activity instead of its purpose, thus freeing ourselves from the constraints of "extroverted thinker" namely the need to act in accordance with intellectual conclusions, but rather enjoy those things which we do for their own sake.
--->
