@@ -23,7 +23,7 @@
   "certificates":[
     {
       "name": "Red Hat Certified System Administrator (RHCSA)",
-      "icon": "fas fa-certificate",
+      "icon": "fa fa-certificate",
       "url": "https://www.redhat.com/en/services/certification/rhcsa",
       "issuer": "Red Hat, Inc.",
       "date": "2021-01-13",
@@ -31,7 +31,7 @@
     },
     {
       "name": "First Aid / CPR / AED",
-      "icon": "fas fa-first-aid",
+      "icon": "fa fa-medkit",
       "url": "https://www.redcross.org/take-a-class/lp/cpr-first-aid-aed-certification-new-hero",
       "issuer": "American Red Cross",
       "date": "2023-08-01",
