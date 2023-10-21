@@ -56,15 +56,12 @@ So, in applying this idea to Liberalism and Conservatism, we might visualize bot
 </div>
 
 
-
 #### III. Ouroboros
 
 Finally, the two previous approaches presume an Hegelian worldview - the ideas are constantly moving forward. But the final problem I've experienced in teaching Liberalism and Conservatism is why the ideas seem, in contravention to the two abstractions raised earlier, to hearken back or revert to past approaches. In a sense, this might be less surprising for Conservatism, which places such an emphasis on history and tradition - but even Liberalism has a tendency toward archaics. Take, perhaps the resurgence of classical liberal ideas among Libertarians, who tend to believe in minimal government intervention, laissez-faire capitalism, low taxes, and individual liberty - though it might not be safe to presume that this group would really constitute a "Liberal" party in the modern understanding of the idea.
 
 I think this idea is nicely modeled by the tail eater (Attic: οὐροβόρος), a symbol of life, death, and rebirth - or, in a more abstract sense, Platonic cyclicality. It's apt, then, to help illustrate how Liberalism and Conservatism don't just move forward, but can sometimes return to old arrangement. 
 
-
-![[Pasted image 20231021135450.png]]
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -74,7 +71,6 @@ I think this idea is nicely modeled by the tail eater (Attic: οὐροβόρο�
 <div class="caption">
     The serpent devours its own tail (Source: <a href="https://commons.wikimedia.org/wiki/File:Serpiente_alquimica.jpg">anonymous medieval illuminator; uploader Carlos adanero</a>, Public domain, via Wikimedia Commons)
 </div>
-
 
 
 Represented in the same manner as the earlier two abstractions, it might look like two circles converging back upon themselves.
