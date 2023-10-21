@@ -21,8 +21,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a software engineer, classicist, and social scientist interested generally in political crisis, institutions, and executive prerogative. I also have a narrow-ish academic focus on the Roman late-republic and later Caesar-biography. I am a Red Hat Certified System Administrator with about fifteen years experience managing Unix systems, developing software, and analyzing data. I enjoy building abstract, extensible [interfaces](https://www.ibm.com/topics/api). I like to write, hike, and jump through bureaucratic hurdles to stay in shape.
+I am a software engineer, classicist, and social scientist academically interested in crisis, caste, institutions, and executive prerogative. I also have a narrow-ish academic focus on the Roman late-republic and later Caesar-biography. I am a Red Hat Certified System Administrator with about fifteen years experience managing Unix systems, developing software, and analyzing data. I enjoy building abstract, extensible [interfaces](https://www.ibm.com/topics/api).
 
+<!-- I am motivated by the conviction that the sum of life is more than the mundane makes it seem.  -->
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
