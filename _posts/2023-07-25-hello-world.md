@@ -41,7 +41,7 @@ Our preoccupation with objects means that we will tend to wear masks when we par
     </div>
 </div>
 <div class="caption">
-    <a href="https://commons.wikimedia.org/wiki/File:Kathmandu,_Nepal,_Sadhu.jpg">© Vyacheslav Argenberg / http://www.vascoplanet.com/</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons
+    Nepali sadhu with a tilaka on his forehead (Source: <a href="https://commons.wikimedia.org/wiki/File:Kathmandu,_Nepal,_Sadhu.jpg">© Vyacheslav Argenberg / http://www.vascoplanet.com/</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons)
 </div>
 
 The third eye gazes inward, yes. But it is also an instrument of destruction. In the Hindu tradition, Shiva's third eye opens to destroy evil from the universe. Likewise, the third eye as a human symbol proposes to uproot those things about ourselves that are not desirable and force us instead to reckon with the subjective self. In that way, it is sort of an "anti-mask", as we train it inward just as we might display it outward; we employ it as a way of realization, rather than as a form of obfuscation. My favorite illustration of the third eye serving this function is Frank Herbert's Dune, where characters invoke the image to overcome their fear.<d-footnote>Herbert (1965).</d-footnote>
