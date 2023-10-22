@@ -31,7 +31,7 @@ This requires us to reach two conclusions: first, that Liberalism outpaces conse
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023-10-24-horse_race.svg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/2023-10-24-horse_race.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -48,7 +48,7 @@ So, in applying this idea to Liberalism and Conservatism, we might visualize bot
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023-10-24-intertwined_lines.svg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/2023-10-24-intertwined_lines.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -65,7 +65,7 @@ I think this idea is nicely modeled by the tail eater (Attic: οὐροβόρο�
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023-10-24-ouroboros.svg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/2023-10-24-ouroboros.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -77,7 +77,7 @@ Represented in the same manner as the earlier two abstractions, it might look li
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023-10-24-circular_lines.svg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/2023-10-24-circular_lines.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
