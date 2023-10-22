@@ -12,14 +12,14 @@ authors:
     url: "https://signebedi.github.io"
     affiliations:
       name: University of Wisconsin-Madison
-bibliography: 2023-10-24-liberalism-conservatism.bib
+bibliography: 2023-07-25-hello-world.bib
 ---
 
 I have the distinct pleasure of teaching a course on Liberalism and Conservatism in American history this semester. Part of the problem of teaching about ideas like these is in helping students understand how and why the ideas change over time. This presents an interesting "teaching methods" question that I've contemplated for some time and struggled to find a good solution for. 
 
 Fundamentally, I view this as a definitional problem. Early in the class, we tackled this problem by building mind maps of Liberalism and Conservatism, drawing links and anti-links between ideas to approach a comprehensive definition of the two ideas. For example, recurring themes for Liberalism included change, liberty, and equality, while Conservatism usually included tradition, hierarchy, and stability. But this still didn't help understand **changes over time** - that is, what "tradition, hierarchy, and stability" might look like will differ if you examine how these principles are carried out in the 18th Century as opposed to the 21st Century.
 
-In law school, I took my class on Trusts and Estates with a remarkable and engaging professor named [Howard Erlanger](https://law.wisc.edu/profiles/hserlang@wisc.edu), and part of his teaching method involved approaching complex ideas through a set of "Erlanger Paradoxes".  I had a chance to sit down with him and pick his brain about this somewhat comparable pedagogical predicament I was facing, leading to what I've taken to calling, in conscious emulation of my intellectual upstream, "Sig's Abstractions."
+In law school, I took my class on Trusts and Estates with a remarkable and engaging professor named Howard Erlanger, and part of his teaching method involved approaching complex ideas through a set of "Erlanger Paradoxes".  I had a chance to sit down with him and pick his brain about this somewhat comparable pedagogical predicament I was facing, leading to what I've taken to calling, in conscious emulation of my intellectual upstream, "Sig's Abstractions."
 
 I'm writing this post *in media res* (and hoping that my students don't read it) because doing so has been helpful in developing the abstractions further and developing a language to discuss them with my discussion groups. It's important to note, however - and I hope my students understand this - that the discussions here are primarily rooted in the American context. Therefore, the interpretations of Liberalism and Conservatism presented may grate with non-American perspectives.
 
