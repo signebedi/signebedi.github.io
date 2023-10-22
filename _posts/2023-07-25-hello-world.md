@@ -12,7 +12,7 @@ authors:
     url: "https://signebedi.github.io"
     affiliations:
       name: University of Wisconsin-Madison
-bibliography: 2023-07-25-hello-world.bib
+bibliography: general_bibliography.bib
 ---
 A few weeks ago, I was backpacking on the [Superior Hiking Trail](https://superiorhiking.org/trail-section/silver-bay-to-caribou-river-wayside/) and had the chance to relax with my group at a campground off the Beaver River, in an area north of Two Harbors, MN. I spent some time sitting half-submerged in the water and zoning out to the tranquil sounds of birdsong, the rustling of leaves in the wind, and the water lapping against nearby stones as the others set up their tents. In the overwhelming synchronicity of the moment, a few thoughts crossed my mind that I'd like to share here.
 

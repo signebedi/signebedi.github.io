@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: modeling a horse race
-date: 2023-10-24
+date: 2023-10-22
 description: abstract approaches to Liberalism and Conservatism
 tags: meta
 categories: essays
@@ -12,7 +12,7 @@ authors:
     url: "https://signebedi.github.io"
     affiliations:
       name: University of Wisconsin-Madison
-bibliography: 2023-07-25-hello-world.bib
+bibliography: general_bibliography.bib
 ---
 
 I have the distinct pleasure of teaching a course on Liberalism and Conservatism in American history this semester. Part of the problem of teaching about ideas like these is in helping students understand how and why the ideas change over time. This presents an interesting "teaching methods" question that I've contemplated for some time and struggled to find a good solution for. 
@@ -31,7 +31,7 @@ This requires us to reach two conclusions: first, that Liberalism outpaces conse
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023-10-24-horse_race.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/2023-10-22-horse_race.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -48,7 +48,7 @@ So, in applying this idea to Liberalism and Conservatism, we might visualize bot
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023-10-24-intertwined_lines.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/2023-10-22-intertwined_lines.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -65,7 +65,7 @@ I think this idea is nicely modeled by the tail eater (Attic: οὐροβόρο�
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023-10-24-ouroboros.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/2023-10-22-ouroboros.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -77,7 +77,7 @@ Represented in the same manner as the earlier two abstractions, it might look li
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023-10-24-circular_lines.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/2023-10-22-circular_lines.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
