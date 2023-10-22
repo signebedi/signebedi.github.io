@@ -1,9 +1,9 @@
 ---
 layout: distill
-title: Modeling a horse race
+title: modeling a horse race
 date: 2023-10-24
-description: abstract aproaches to Liberalism and Conservatism
-tags: meta pedagogy
+description: abstract approaches to Liberalism and Conservatism
+tags: meta
 categories: essays
 related_posts: false
 giscus_comments: true
