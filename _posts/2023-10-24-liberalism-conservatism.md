@@ -55,8 +55,8 @@ The second teaching problem I've experienced is why the two ideas seem sometimes
 So, in visualizing this abstraction in a manner similar to the first, we might plot Liberalism and Conservatism as a wave function and its inverse, with the two waves intersecting with one another periodically.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2023-10-22-intertwined_lines.png" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0" style="height: 50%;">
+        {% include figure.html path="assets/img/2023-10-22-intertwined_lines.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
