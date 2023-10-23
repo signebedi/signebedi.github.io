@@ -87,7 +87,7 @@ Represented in the same manner as the earlier two abstractions, it might look li
     </div>
 </div>
 <div class="caption">
-    Illustration of two circles converging back on themselves (source: author)
+    Illustration of two curves converging back on themselves (source: author)
 </div>
 
 <!-- 
