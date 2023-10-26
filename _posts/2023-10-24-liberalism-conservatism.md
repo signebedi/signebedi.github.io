@@ -21,7 +21,7 @@ I view this fundamentally as a definitional problem: it's hard to pin down a com
 
 In law school, I took Trusts and Estates with a remarkable and engaging professor named Howard Erlanger, and part of his teaching method involved approaching complex ideas through a set of "Erlanger's Paradoxes." I had a chance to sit down with him and pick his brain about my somewhat comparable pedagogical predicament, leading to what I've taken to calling, in conscious emulation of my intellectual upstream, "Sig's Abstractions."
 
-I'm writing this post *in media res* (with mixed feelings about my students reading it) because doing so has been helpful in developing the abstractions further along with a language to discuss them with my students. It's important to note, however - and I hope my students understand this - that this discussionsis primarily rooted in the American context and the interpretations of Liberalism and Conservatism presented here may grate with non-American perspectives on the same.
+I'm writing this post *in media res* (with mixed feelings about my students reading it) because doing so has been helpful in developing the abstractions further, as well as a language to discuss them with my students. It's important to note, however - and I hope my students understand this - that this discussions is primarily rooted in the American context and the interpretations of Liberalism and Conservatism presented here may grate with non-American perspectives on the same.
 
 #### I. The horse race
 
