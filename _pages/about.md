@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a software engineer, classicist, and social scientist academically interested in crisis, caste, institutions, and executive prerogative. I also have a narrow-ish academic focus on the Roman late-republic and later Caesar-biography. I have an interest in literature, especially metrical composition and science fiction. I am a Red Hat Certified System Administrator with about fifteen years experience managing Unix systems, developing software, and analyzing data. I enjoy building abstract, extensible [interfaces](https://www.ibm.com/topics/api) to bridge various systems and epistemic domains.
+I am a software engineer, classicist, and social scientist academically interested in crisis, caste, institutions, and executive prerogative. I also have a narrow-ish academic focus on the Roman late-republic and later Caesar-biography. I have an interest in literature, especially metrical composition and science fiction. I am a Red Hat Certified System Administrator with about fifteen years experience managing Unix systems, developing software, and analyzing data. I enjoy building [interfaces](https://www.ibm.com/topics/api), between technical systems, between different epistemic domains, and between the practical and the theoretical.
 
 <!-- I am motivated by the conviction that the sum of life is more than the mundane makes it seem.  -->
 
