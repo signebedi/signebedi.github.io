@@ -19,7 +19,9 @@ I have the distinct pleasure of teaching a course this semester on how Liberalis
 
 I view this fundamentally as a definitional problem: it's hard to pin down a comprehensive meaning for Liberalism or Conservatism, partly because of the long, complex history of the two traditions, partly because of the mixing of theories that practical politics tends to effectuate. Early in the class, we tackled this by building mind maps of both ideas, establishing links and anti-links to gain a better understanding of each theory's tenets and how they related. Recurring themes for Liberalism tended to include concepts like change, progress, free markets, liberty, and equality, while Conservatism usually included tradition, religion, hierarchy, and stability. But this still didn't account for changes to the ideas over time - that is, why a tenent like "tradition" might look different if you examine how the principle is carried out in the 18th Century as opposed to the 21st Century.
 
-In law school, I took Trusts and Estates with a remarkable and engaging professor named Howard Erlanger, and part of his teaching method involved approaching complex ideas through a set of "Erlanger's Paradoxes." I had a chance to sit down with him and pick his brain about my somewhat comparable pedagogical predicament, leading to what I've taken to calling, in conscious emulation of my intellectual upstream, "Sig's Abstractions."
+One possible solution I considered was a participatory model where we created actual hats labeled "conservative" and "liberal" that students could wear as part of the classroom activities to think through historical problems from different perspectives, which would (in theory) free them from needing to take personal responsibility for challenging world views while allowing us still to derive learning value from these, and which we could introduce more complex sub-variants to as the course progressed (an "economic liberal" hat, for example). I decided against using this as my initial approach, however, because I felt it put too much pressure on students early in the semester - though it may prove a useful activity later on when students are more comfortable with the subject matter.
+
+Another approach, however, would be using abstractions. In law school, I took Trusts and Estates with a remarkable and engaging professor named Howard Erlanger, and part of his teaching method involved approaching complex ideas through a set of "Erlanger's Paradoxes" - a sort of theoretical shorthand to help students reach analytical conclusions faster given a limited set of facts. I had a chance to sit down with him and pick his brain about my somewhat comparable pedagogical predicament, leading to what I've taken to calling, in conscious emulation of my intellectual upstream, "Sig's Abstractions."
 
 I'm writing this post *in media res* (with mixed feelings about my students reading it) because doing so has been helpful in developing the abstractions further, as well as a language to discuss them with my students. It's important to note, however - and I hope my students understand this - that this discussions is primarily rooted in the American context and the interpretations of Liberalism and Conservatism presented here may grate with non-American perspectives on the same.
 
@@ -92,8 +94,9 @@ Represented in the same manner as the earlier two abstractions, it might look li
     Illustration of two curves converging back on themselves (source: author)
 </div>
 
-<!-- 
-<div style="display: none;">
+
+<!-- <div style="display: none;">
     <d-cite key="oakeshott1991"></d-cite>
-</div> 
--->
+    <d-cite key="fukuyama1992end"></d-cite>
+</div>  -->
+
