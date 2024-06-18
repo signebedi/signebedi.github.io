@@ -2,9 +2,9 @@ github_users:
   - signebedi
 
 github_repos:
-  - libreForms/libreForms-flask
   - signebedi/gptty
-  - signebedi/Flask-Signing
-  - signebedi/wiki-flask
+  - signebedi/libreforms-fastapi
+  - signebedi/sqlalchemy_signing
+  - libreForms/libreForms-flask
   - signebedi/coliseum
   - signebedi/mercutio
