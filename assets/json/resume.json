@@ -22,7 +22,7 @@
   },
   "certificates":[
     {
-      "name": "Red Hat Certified System Administrator (RHCSA)",
+      "name": "RedHat Certified System Administrator (RHCSA)",
       "icon": "fa fa-certificate",
       "url": "https://rhtapps.redhat.com/verify?certId=210-004-362",
       "issuer": "Red Hat, Inc.",
@@ -80,22 +80,6 @@
       "endDate": "2022-12-01"
     },
     {
-      "name": "University of Wisconsin-Madison Department of Political Science",
-      "url":"https://polisci.wisc.edu/",
-      "position": "Teaching Assistant",
-      "summary":"Introduction to American Government",
-      "startDate": "2018-08-01",
-      "endDate": "2019-05-01"
-    },
-    {
-      "name": "University of Wisconsin-Madison Department of Political Science",
-      "url":"https://polisci.wisc.edu/",
-      "position": "Teaching Assistant",
-      "summary":"Introduction to International Relations",
-      "startDate": "2017-08-01",
-      "endDate": "2018-01-01"
-    },
-    {
       "name": "Government Accountability Office (GAO)",
       "url":"https://www.gao.gov/",
       "position": "Senior Analyst, Applied Research & Methods",
@@ -124,11 +108,27 @@
       "endDate": "2020-01-01"
     },
     {
+      "name": "University of Wisconsin-Madison Department of Political Science",
+      "url":"https://polisci.wisc.edu/",
+      "position": "Teaching Assistant",
+      "summary":"Introduction to American Government",
+      "startDate": "2018-08-01",
+      "endDate": "2019-05-01"
+    },
+    {
       "name": "Government Accountability Office (GAO)",
       "url":"https://www.gao.gov/",
       "position": "Analyst, Defense Capabilities & Management",
       "startDate": "2018-01-01",
       "endDate": "2018-06-01"
+    },
+    {
+      "name": "University of Wisconsin-Madison Department of Political Science",
+      "url":"https://polisci.wisc.edu/",
+      "position": "Teaching Assistant",
+      "summary":"Introduction to International Relations",
+      "startDate": "2017-08-01",
+      "endDate": "2018-01-01"
     }
   ],
 
