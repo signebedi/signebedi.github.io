@@ -24,7 +24,7 @@
     {
       "name": "Red Hat Certified System Administrator (RHCSA)",
       "icon": "fa fa-certificate",
-      "url": "https://www.redhat.com/en/services/certification/rhcsa",
+      "url": "https://rhtapps.redhat.com/verify?certId=210-004-362",
       "issuer": "Red Hat, Inc.",
       "date": "2021-01-13",
       "items": []
@@ -40,42 +40,21 @@
   ],  
   "work": [
     {
-      "name": "Government Accountability Office (GAO)",
-      "url":"https://www.gao.gov/",
-      "position": "Senior Analyst, Applied Research & Methods",
-      "startDate": "2022-07-01",
-      "endDate": "Present"
+      "name": "University of Wisconsin-Madison College of Letters & Science",
+      "url":"https://guide.wisc.edu/undergraduate/letters-science/center-law-society-justice/legal-studies-ba/",
+      "position": "Instructor",
+      "summary":"Law in Action",
+      "startDate": "2024-08-01",
+      "endDate": "2025-05-01"
     },
     {
-      "name": "Government Accountability Office (GAO)",
-      "url":"https://www.gao.gov/",
-      "position": "Analyst, Science, Technology Assessment, & Analytics",
-      "startDate": "2020-05-01",
-      "endDate": "2022-07-01"
+      "name": "University of Wisconsin-Madison Department of Political Science",
+      "url":"https://polisci.wisc.edu/",
+      "position": "Teaching Assistant",
+      "summary":"Russian Invasion of Ukraine",
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-01"
     },
-    {
-      "name": "Government Accountability Office (GAO)",
-      "url":"https://www.gao.gov/",
-      "position": "Data Analyst, Applied Research & Methods",
-      "startDate": "2020-01-01",
-      "endDate": "2020-05-01"
-    },
-    {
-      "name": "Government Accountability Office (GAO)",
-      "url":"https://www.gao.gov/",
-      "position": "Analyst, Contracting & National Security Acquisitions",
-      "startDate": "2019-05-01",
-      "endDate": "2020-01-01"
-    },
-    {
-      "name": "Government Accountability Office (GAO)",
-      "url":"https://www.gao.gov/",
-      "position": "Analyst, Defense Capabilities & Management",
-      "startDate": "2018-01-01",
-      "endDate": "2018-06-01"
-    }
-  ],
-  "teaching": [
     {
       "name": "University of Wisconsin-Madison Department of Political Science",
       "url":"https://polisci.wisc.edu/",
@@ -115,8 +94,44 @@
       "summary":"Introduction to International Relations",
       "startDate": "2017-08-01",
       "endDate": "2018-01-01"
+    },
+    {
+      "name": "Government Accountability Office (GAO)",
+      "url":"https://www.gao.gov/",
+      "position": "Senior Analyst, Applied Research & Methods",
+      "startDate": "2022-07-01",
+      "endDate": "Present"
+    },
+    {
+      "name": "Government Accountability Office (GAO)",
+      "url":"https://www.gao.gov/",
+      "position": "Analyst, Science, Technology Assessment, & Analytics",
+      "startDate": "2020-05-01",
+      "endDate": "2022-07-01"
+    },
+    {
+      "name": "Government Accountability Office (GAO)",
+      "url":"https://www.gao.gov/",
+      "position": "Data Analyst, Applied Research & Methods",
+      "startDate": "2020-01-01",
+      "endDate": "2020-05-01"
+    },
+    {
+      "name": "Government Accountability Office (GAO)",
+      "url":"https://www.gao.gov/",
+      "position": "Analyst, Contracting & National Security Acquisitions",
+      "startDate": "2019-05-01",
+      "endDate": "2020-01-01"
+    },
+    {
+      "name": "Government Accountability Office (GAO)",
+      "url":"https://www.gao.gov/",
+      "position": "Analyst, Defense Capabilities & Management",
+      "startDate": "2018-01-01",
+      "endDate": "2018-06-01"
     }
   ],
+
   "volunteer": [
     {
       "organization": "Sifting & Winnowing (S&W)",
