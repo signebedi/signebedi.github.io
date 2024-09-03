@@ -114,7 +114,7 @@ Represented in the same manner as the earlier concepts, it might look like two c
     Illustration of two curves converging back on themselves (source: author)
 </div>
 
-
+In any event, these musings constitute a slightly cleaned up set of working notes that have evolved over the first few weeks of the academic term. Thank you for reading, and hopefully the effort has been rewarding and enjoyable.
 <div style="display: none;">
     <d-cite key="oakeshott1991"></d-cite>
     <d-cite key="fukuyama1992end"></d-cite>
