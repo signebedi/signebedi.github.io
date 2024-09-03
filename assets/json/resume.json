@@ -20,7 +20,7 @@
       }
     ]
   },
-  "certificates":[
+  "_certificates":[
     {
       "name": "RedHat Certified Engineer (RHCE)",
       "icon": "fa fa-certificate",
@@ -28,7 +28,9 @@
       "issuer": "Red Hat, Inc.",
       "date": "2024-01-12",
       "items": []
-    },
+    }
+  ],
+  "certificates":[
     {
       "name": "RedHat Certified System Administrator (RHCSA)",
       "icon": "fa fa-certificate",
