@@ -21,9 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a software engineer, classicist, and social scientist academically interested in crisis, caste, and institutions. I have an additional, narrow-ish academic focus on the Roman late-republic and later Caesar-biography, especially as these topics relate to institutions, ideology, and elites. I enjoy reading and writing literature, especially poetry and science fiction. I am a RedHat Certified System Administrator with about fifteen years experience managing Unix systems, developing software, and analyzing data. I dabble in abstraction and enjoy building cross-disciplinary interfaces.
-
-<!-- I am motivated by the conviction that the sum of life is more than the mundane makes it seem.  -->
+I am a classicist, social scientist, and software engineer with interests in crisis, caste, and institutions. I have an additional, narrow-ish academic focus on the Roman late-republic and later Caesar-biography, especially as these topics relate to institutions, ideology, and elites. I enjoy reading and writing literature, particularly poetry and science fiction. I am a RedHat Certified System Administrator with about fifteen years experience managing Unix systems, developing software, and analyzing data. 
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
