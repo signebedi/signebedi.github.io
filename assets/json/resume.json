@@ -22,6 +22,14 @@
   },
   "certificates":[
     {
+      "name": "RedHat Certified Engineer (RHCE)",
+      "icon": "fa fa-certificate",
+      "url": "https://rhtapps.redhat.com/verify?certId=210-004-362",
+      "issuer": "Red Hat, Inc.",
+      "date": "2024-01-12",
+      "items": []
+    },
+    {
       "name": "RedHat Certified System Administrator (RHCSA)",
       "icon": "fa fa-certificate",
       "url": "https://rhtapps.redhat.com/verify?certId=210-004-362",
@@ -199,19 +207,19 @@
     },
     {
       "name": "Caesarian Narrative and the Construction of Caesar-Biography",
-      "publisher": "Working paper, Oxford University, Department of Classics",
+      "publisher": "Working paper, Oxford University, Faculty of Classics",
       "releaseDate": "2021-01-01",
       "url": "#publications"
     },
     {
       "name": "Sisenna and the 'Sullan Narrative'",
-      "publisher": "Working paper, Oxford University, Department of Classics",
+      "publisher": "Working paper, Oxford University, Faculty of Classics",
       "releaseDate": "2021-01-01",
       "url": "#publications"
     },
     {
       "name": "The Iulii, Cossutii, and Pisa",
-      "publisher": "Working paper, Oxford University, Department of Classics",
+      "publisher": "Working paper, Oxford University, Faculty of Classics",
       "releaseDate": "2020-10-01",
       "url": "#publications"
     },
