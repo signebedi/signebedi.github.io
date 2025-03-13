@@ -214,7 +214,7 @@ I won’t expound too greatly on the great successes that Jade finds after law s
 
 
 
-<div>
+<div style="display: none;">
     <d-cite key="georgetown2020legalacademy"></d-cite>
     <d-cite key="ahrens2017smartnotes"></d-cite>
     <d-cite key="carnegie2007educating"></d-cite>
