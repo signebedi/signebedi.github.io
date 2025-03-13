@@ -218,6 +218,7 @@ If you want to back up your application, I recommend using a Git repository, and
 I won’t expound too greatly on the great successes that Jade finds after law school, no doubt a direct result of her excellent and well-considered method for managing knowledge. I will, however, take a little bit of space to reflect on how she has positioned herself. Notes are not useful unless they can be understood within the contexts they were intended to serve. What I mean is that a note written for your future self is not useful unless it’s configured so that your future self can understand it. A dusting of organization using high level folders, a standard naming convention, and even a set of common subheaders for certain categories of notes (eg. always having Facts, Question, Holding, and Analysis headers for notes corresponding to legal cases) can keep things predictable and reduce the complexity of your notes and the time it takes to manage them. This way of structuring notes today can position Jade to succeed in a top law firm or competitive judicial clerkship where she needs to be able to wrap her head around a wide range of complicated topics on tight timeframes. Likewise, other future-oriented practices, like using an `#idea` tag to designate novel ideas as you take notes, can situate you to exploit intellectual opportunities later in life, when time and expertise might permit the writing of an academic journal article or to take some other action on a topic of interest from your school days. So, if you’ve read this far, I earnestly hope - all the more so if you are one of my students - that you take this as an opportunity to think about what your goals are in writing notes and, if you feel like now is a good time to reconsider the systems you build around those goals, that you use this essay as a resource to do so.
 
 
+<div style="display: none;">
 <d-cite key="georgetown2020legalacademy"></d-cite>
 <d-cite key="ahrens2017smartnotes"></d-cite>
 <d-cite key="carnegie2007educating"></d-cite>
@@ -225,7 +226,7 @@ I won’t expound too greatly on the great successes that Jade finds after law s
 <d-cite key="ginter2019ulysses"></d-cite>
 <d-cite key="vik2020zettelkasten"></d-cite>
 <d-cite key="spolsky2018gamification"></d-cite>
-<div style="display: none;"></div> 
+</div> 
 
 
 
