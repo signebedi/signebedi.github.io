@@ -136,7 +136,10 @@ This distinction eventually grows more important when you have multiple notes re
 
 #### d. python snippets and other automations
 
-WARNING: the following section includes advanced techniques. Continue at your own peril.
+
+{% details WARNING %}
+The following section includes advanced techniques. Continue at your own peril.
+{% enddetails %}
 
 Sometimes, it’s useful to generate groups of notes ahead of time. For example, if you receive a course syllabus that lists the topics and readings for each day of class, then you can use that to generate a list of notes before the first day of class. This also reduces administrative complexity as the semester progresses by allowing you to create a structure of notes beforehand that you can fill in as you go. Let’s say you want to implement this using python. You can start by creating a dictionary of course dates, as in the snippet below. I typically use the class dates as keys for this dictionary, though you’re free to restructure this however you choose. 
 
