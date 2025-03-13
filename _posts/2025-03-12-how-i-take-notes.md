@@ -24,7 +24,7 @@ As a part of the course I currently teach at the University of Wisconsin called 
 
 If most of what you know about law school comes from television, then you'll be forgiven for believing that law school is mostly about producing legal practitioners. There’s lots of reasons why this may be the case: legal practice comes with wealth, prestige, and a direct impact on the lives of your clients and society writ large. However, legal practitioners also are simultaneously legal thinkers, especially those who are in roles where they need to conduct legal research to properly advise their clients. Plenty of practicing lawyers engage in outside research and publish this research in their free time, too. Likewise, appellate judges, clerks, and attorneys are all engaging in legal thinking to establish legitimate legal standards, argue their cases, and make sense of the law. 
 
-Given that there's so much scholarship involved in legal practice, we might ask whether law school primarily about producing practicing lawyers or producing legal thinkers. Robin West’s essay is striking in its claim that to become a competitive legal scholar, one need only write a law review article and take some interdisciplinary classes. Other than that, you’re free to take other classes as usual in law school. Does that make it sound like law schools are primarily focused on legal practice? Of course, there is also a secondary issue of academic performance - law faculty postings are hotly contested. Likewise, the student experience will vary from law school to law school, as some institutions and their faculty might have a greater focus on practical rather than theoretical pursuits. But what West’s essay suggests is that law school is more than a little bit oriented toward legal thought, not just legal practice.<d-footnote>though this is sometimes a point of critique, see eg. Sullivan et al. (2007)</d-footnote>
+Given that there's so much scholarship involved in legal practice, we might ask whether law school primarily about producing practicing lawyers or producing legal thinkers. Robin West’s essay is striking in its claim that to become a competitive legal scholar, one need only write a law review article and take some interdisciplinary classes. Other than that, you’re free to take other classes as usual in law school. Does that make it sound like law schools are primarily focused on legal practice? Of course, there is also a secondary issue of academic performance - law faculty postings are hotly contested. Likewise, the student experience will vary from law school to law school, as some institutions and their faculty might have a greater focus on practical rather than theoretical pursuits. But what West’s essay suggests is that law school is more than a little bit oriented toward legal thought, not just legal practice.<d-footnote>Though this is sometimes a point of critique, see eg. Sullivan et al. (2007)</d-footnote>
 
 #### II. Competing Goals and the Slip Box Method
 
@@ -32,14 +32,14 @@ If we accept that the structure of law school is naturally oriented toward legal
 
 Sönke Ahrens’ book is helpful in understanding how we can be true to ourselves while also developing a system that is effective. We need to start by asking what our goal is in taking notes. Ahrens distinguishes between planners and experts, where a planner is trying to anticipate demands and orient their knowledge management system to complete those demands. For example, you might plan around completing assignments for a class and getting an A. An expert, on the other hand, is concerned primarily with learning things and becoming masters of their craft. 
 
-Some of my students shared methods that they use that allow them to interlink ideas and sort them into their short run and long run usefulness. The problem with some of these approaches is generally that they increase in complexity as time progresses and they take lots of time to prepare. Wouldn’t it be nice to have a method that remains simple and scalable over time? This is where the slip-note method, so some variation therein, comes into play. This is a method where you stack new notes on top of each other, and connect them as you go. I like to think of this as ‘knowledge management on the go’. It’s a complex system, to be sure, but not in a way that necessarily grows unmanageable. Rather, it's conceptually complex and enables increasing complexity of thought, especially when you take notes that span multiple disciplines. It’s not something that you need to get perfect the moment you start it. In fact, those that use it tend to discourage that attitude of perfectionism which can make note taking a very unenjoyable and laborious process.<d-footnote>see eg. Vik (2020)</d-footnote>
+Some of my students shared methods that they use that allow them to interlink ideas and sort them into their short run and long run usefulness. The problem with some of these approaches is generally that they increase in complexity as time progresses and they take lots of time to prepare. Wouldn’t it be nice to have a method that remains simple and scalable over time? This is where the slip-note method, so some variation therein, comes into play. This is a method where you stack new notes on top of each other, and connect them as you go. I like to think of this as ‘knowledge management on the go’. It’s a complex system, to be sure, but not in a way that necessarily grows unmanageable. Rather, it's conceptually complex and enables increasing complexity of thought, especially when you take notes that span multiple disciplines. It’s not something that you need to get perfect the moment you start it. In fact, those that use it tend to discourage that attitude of perfectionism which can make note taking a very unenjoyable and laborious process.<d-footnote>See eg. Vik (2020)</d-footnote>
 
 
 
 
 #### III. Taking Notes with Obsidian
 
-There are a handful of tools that facilitate this structure. While any application will do, my experience is that tools that enable you to tag or link notes with each other are best suited to this method. My preferred app is [Obsidian](https://obsidian.md/download) (yes, I am one of those cultists) because it makes it easy to write notes and use tagging systems to link these notes together as you progress, allowing its users to take notes to serve a present day purpose and a long run purpose without needing to spend substantial time and energy sorting these notes, and without significantly increasing the complexity of managing these notes and organizing them together as time progresses. It’s also open source, with a [substantial community](https://forum.obsidian.md), a grand number of [plugins](https://obsidian.md/plugins), and several helpful commentators.<d-footnote>my favorite commentator is <a href="https://www.youtube.com/c/nicolevanderhoeven">Nicole van der Hoeven</a></d-footnote>  I encourage (but don’t require) my students to try it out, especially if they are considering law school and becoming legal practitioners, given that even practitioners have to work with knowledge, and it's especially true for those who want to go to law school and become legal scholars, because the vast majority of their work will be involved with knowledge management and expertise around a subject matter.
+There are a handful of tools that facilitate this structure. While any application will do, my experience is that tools that enable you to tag or link notes with each other are best suited to this method. My preferred app is [Obsidian](https://obsidian.md/download) (yes, I am one of those cultists) because it makes it easy to write notes and use tagging systems to link these notes together as you progress, allowing its users to take notes to serve a present day purpose and a long run purpose without needing to spend substantial time and energy sorting these notes, and without significantly increasing the complexity of managing these notes and organizing them together as time progresses. It’s also open source, with a [substantial community](https://forum.obsidian.md), a grand number of [plugins](https://obsidian.md/plugins), and several helpful commentators.<d-footnote>My favorite commentator is <a href="https://www.youtube.com/c/nicolevanderhoeven">Nicole van der Hoeven</a></d-footnote>  I encourage (but don’t require) my students to try it out, especially if they are considering law school and becoming legal practitioners, given that even practitioners have to work with knowledge, and it's especially true for those who want to go to law school and become legal scholars, because the vast majority of their work will be involved with knowledge management and expertise around a subject matter.
 
 I am an interdisciplinary fellow with interests and expertise that span the arts and humanities, law and the social sciences, and computer science. As such, the note taking system that I’ve built does its best to (at least) accommodate these and (at best) allow them each to contribute to growth in the global complexity of thought I’m able to achieve. I also maintain a lively correspondence with a wide range of people who also try to address a similar set of knowledge management problems - at least, atmospherically similar, though the particular textures of their interests and goals may vary from each other and also from mine. Variety, however, is the spice of life, and I think that talking about my system with other people with different attitudes towards notes and different particular interests has allowed me to understand myself better and refine my system to better conform to my needs.
 
@@ -137,8 +137,8 @@ WARNING: the following section includes advanced techniques. Continue at your ow
 
 Sometimes, it’s useful to generate groups of notes ahead of time. For example, if you receive a course syllabus that lists the topics and readings for each day of class, then you can use that to generate a list of notes before the first day of class. This also reduces administrative complexity as the semester progresses by allowing you to create a structure of notes beforehand that you can fill in as you go. Let’s say you want to implement this using python. You can start by creating a dictionary of course dates, as in the snippet below. I typically use the class dates as keys for this dictionary, though you’re free to restructure this however you choose. 
 
-````markdown
-```python
+
+{% highlight python linenos %}
 import datetime
 import os
 
@@ -150,13 +150,13 @@ class_days = {
     },
     ...
 }
-```
-````
+{% endhighlight %}
+
 
 Next, we will want to define a function to create a markdown file. We plan to pass it a handful of params, like the date for a given class, the contents of the dictionary we defined above, and then (optionally) links to the next and previous class, which can create easy visual tools for cycling through class notes sequentially.
 
-````markdown
-```python
+
+{% highlight python linenos %}
 # Here we define a function to create the markdown file
 def create_markdown_file(date_str, content, previous_class=None, next_class=None):
     # This parses the date string and creates a datetime object
@@ -181,13 +181,13 @@ tags:
     with open(filename, 'w') as file:
         file.write(markdown_header)
         file.write(markdown_body)
-```
-````
+{% endhighlight %}
+
 
 To implement this function for each class identified in the `class_days` dictionary above, we can run the following logic:
 
-````markdown
-```python
+
+{% highlight python linenos %}
 # We sort the dates sequentially
 previous_class = None
 sorted_dates = sorted(class_days.keys())
@@ -199,12 +199,12 @@ for i, date_str in enumerate(sorted_dates):
     # Now, we run the function we defined above for the class date that we’re on
     create_markdown_file(date_str, content, previous_class, next_class) 
     previous_class = date_str # for the next iteration, we set the date from the current iteration to the previous_class date for the next iteration... pretty nice, huh?
-```
-````
+{% endhighlight %}
+
 
 Add this all together, et voila. You have a list of classes for your entire semester of election law. Not only that, but you have the readings and topic pre-loaded, though you mileage may vary since some professors will sometimes make changes to these parts of the class as the semester progresses. Additionally, the `next_class` and `previous_class` elements will show up in the frontmatter of your notes and allow you cycle through class date sequentially, which can be a substantial quality-of-life improvement.
 
-If you want to back up your application, I recommend using a Git repository. Other commentators can provide better instructions than I can on how to implement this, but I’ll note that there are Obsidian plugins that help facilitate automatic synchronization of your local Obsidian vault with the remote repository that you’ve backed it up to. If you’re using the iOS app, I recommend using Working Copy. The pro version of Working Copy is free for students who are part of the Github developer program, at least as of March 2025, and it comes with some useful Shortcuts for you to automate synchronization like you can with the desktop application.<d-footnote>Ginter (2019)</d-footnote>
+If you want to back up your application, I recommend using a Git repository. Other commentators can provide better instructions than I can on how to implement this, but I’ll note that there are Obsidian plugins that help facilitate automatic synchronization of your local Obsidian vault with the remote repository that you’ve backed it up to. If you’re using the iOS app, I recommend using Working Copy. The pro version of Working Copy is free for students who are part of the Github developer program, at least as of March 2025, and it comes with some useful Shortcuts for you to automate synchronization like you can with the desktop application.<d-footnote>See eg. Ginter (2019)</d-footnote>
 
 
 #### e. conclusions, etc
