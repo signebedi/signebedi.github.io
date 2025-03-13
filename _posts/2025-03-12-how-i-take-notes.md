@@ -138,7 +138,7 @@ WARNING: the following section includes advanced techniques. Continue at your ow
 Sometimes, it’s useful to generate groups of notes ahead of time. For example, if you receive a course syllabus that lists the topics and readings for each day of class, then you can use that to generate a list of notes before the first day of class. This also reduces administrative complexity as the semester progresses by allowing you to create a structure of notes beforehand that you can fill in as you go. Let’s say you want to implement this using python. You can start by creating a dictionary of course dates, as in the snippet below. I typically use the class dates as keys for this dictionary, though you’re free to restructure this however you choose. 
 
 
-{% highlight python linenos %}
+```python
 import datetime
 import os
 
@@ -150,13 +150,13 @@ class_days = {
     },
     ...
 }
-{% endhighlight %}
+```
 
 
 Next, we will want to define a function to create a markdown file. We plan to pass it a handful of params, like the date for a given class, the contents of the dictionary we defined above, and then (optionally) links to the next and previous class, which can create easy visual tools for cycling through class notes sequentially.
 
 
-{% highlight python linenos %}
+```python
 # Here we define a function to create the markdown file
 def create_markdown_file(date_str, content, previous_class=None, next_class=None):
     # This parses the date string and creates a datetime object
@@ -181,13 +181,13 @@ tags:
     with open(filename, 'w') as file:
         file.write(markdown_header)
         file.write(markdown_body)
-{% endhighlight %}
+```
 
 
 To implement this function for each class identified in the `class_days` dictionary above, we can run the following logic:
 
 
-{% highlight python linenos %}
+```python
 # We sort the dates sequentially
 previous_class = None
 sorted_dates = sorted(class_days.keys())
@@ -199,7 +199,7 @@ for i, date_str in enumerate(sorted_dates):
     # Now, we run the function we defined above for the class date that we’re on
     create_markdown_file(date_str, content, previous_class, next_class) 
     previous_class = date_str # for the next iteration, we set the date from the current iteration to the previous_class date for the next iteration... pretty nice, huh?
-{% endhighlight %}
+```
 
 
 Add this all together, et voila. You have a list of classes for your entire semester of election law. Not only that, but you have the readings and topic pre-loaded, though you mileage may vary since some professors will sometimes make changes to these parts of the class as the semester progresses. Additionally, the `next_class` and `previous_class` elements will show up in the frontmatter of your notes and allow you cycle through class date sequentially, which can be a substantial quality-of-life improvement.
