@@ -18,13 +18,13 @@ bibliography: general_bibliography.bib
 
 
 
-As a part of the course I currently teach at the University of Wisconsin called Legal St 444: Law in Action, I developed a lesson plan on “taking effective notes for law school (and life)” and have taken to giving this lecture to students early in the semester so that they can apply some of its takeaways as the course develops. In preparation, I ask them to prepare two readings: first, an essay from GULC emeritus professor Robin West on the path to becoming law faculty; second, the introduction to How to Take Smart Notes by Sönke Ahrens. The point is to encourage them to conceptualize their legal education as both a practical and theoretical endeavor, and their notes as serving both a present and future purpose. I’m including the substance of this lecture in the essay below, and follow this up with a deep-dive into how you can organize your notes using the hypothetical second-year law student, Jade Law.
+As a part of the course I currently teach at the University of Wisconsin called Legal St 444: Law in Action, I developed a lesson plan on “taking effective notes for law school (and life)” and have taken to giving this lecture to students early in the semester so that they can apply some of its takeaways as the course develops. Beforehand, I ask them to prepare two readings: first, an essay from GULC emeritus professor Robin West on the path to becoming law faculty; second, the introduction to How to Take Smart Notes by Sönke Ahrens. The point is to encourage them to conceptualize their legal education as both a practical and theoretical endeavor, and their notes as serving both a present and future purpose. I’m including the substance of this lecture in the essay below, and follow this up with a deep-dive into how you can organize your notes using the story of a hypothetical second-year law student, Jade Law.
 
 #### I. Law as Knowledge Management
 
-If most of what you know about law school comes from television, then you'll be forgiven for believing that law school is mostly about producing legal practitioners. There’s lots of reasons why this may be the case: legal practice comes with wealth, prestige, and a direct impact on the lives of your clients and society writ large. However, legal practitioners also are simultaneously legal thinkers, especially those who are in roles where they need to conduct legal research to properly advise their clients. Plenty of practicing lawyers engaging outside research and publish this research in their free time, too. Likewise, appellate judges, clerks, and attorneys are all engaging in legal thinking to establish legitimate legal standards, argue their cases, and make sense of the law. 
+If most of what you know about law school comes from television, then you'll be forgiven for believing that law school is mostly about producing legal practitioners. There’s lots of reasons why this may be the case: legal practice comes with wealth, prestige, and a direct impact on the lives of your clients and society writ large. However, legal practitioners also are simultaneously legal thinkers, especially those who are in roles where they need to conduct legal research to properly advise their clients. Plenty of practicing lawyers engage in outside research and publish this research in their free time, too. Likewise, appellate judges, clerks, and attorneys are all engaging in legal thinking to establish legitimate legal standards, argue their cases, and make sense of the law. 
 
-Given that there's so much scholarship involved in legal practice, we might ask whether law school primarily about producing practicing lawyers or producing legal thinkers. Robin West’s essay is striking in its claim that to become a competitive legal scholar, one need only write a law review article and take some interdisciplinary classes. Other than that, you’re free to take other classes as usual in law school. Does that make it sound like law schools are primarily focused on legal practice? Of course, there is also a secondary issue of academic performance - law faculty postings are hotly contested. Likewise, the student experience will vary from law school to law school, as some institutions and their faculty might have a greater focus on practical rather than theoretical pursuits. But what West’s essay suggests is that law school is more than a little bit oriented toward legal thought, not just legal practice. (though this is sometimes a point of critique, see eg. the Carnegie Report on Legal Education)
+Given that there's so much scholarship involved in legal practice, we might ask whether law school primarily about producing practicing lawyers or producing legal thinkers. Robin West’s essay is striking in its claim that to become a competitive legal scholar, one need only write a law review article and take some interdisciplinary classes. Other than that, you’re free to take other classes as usual in law school. Does that make it sound like law schools are primarily focused on legal practice? Of course, there is also a secondary issue of academic performance - law faculty postings are hotly contested. Likewise, the student experience will vary from law school to law school, as some institutions and their faculty might have a greater focus on practical rather than theoretical pursuits. But what West’s essay suggests is that law school is more than a little bit oriented toward legal thought, not just legal practice.<d-footnote>though this is sometimes a point of critique, see eg. Sullivan et al. (2007)</d-footnote>
 
 #### II. Competing Goals and the Slip Box Method
 
@@ -32,24 +32,24 @@ If we accept that the structure of law school is naturally oriented toward legal
 
 Sönke Ahrens’ book is helpful in understanding how we can be true to ourselves while also developing a system that is effective. We need to start by asking what our goal is in taking notes. Ahrens distinguishes between planners and experts, where a planner is trying to anticipate demands and orient their knowledge management system to complete those demands. For example, you might plan around completing assignments for a class and getting an A. An expert, on the other hand, is concerned primarily with learning things and becoming masters of their craft. 
 
-Some of my students shared methods that they use that allow them to interlink ideas and sort them into their short run and long run usefulness. The problem with some of these approaches is generally that they increase in complexity as time progresses and they take lots of time to prepare. Wouldn’t it be nice to have a method that remains simple and scalable over time? This is where the slip-note method comes into play. This is a method where you stack new notes on top of each other, and connect them as you go. I like to think of this as ‘knowledge management on the go’. It’s a complex system, to be sure, but not in a way that necessarily grows unmanageable. Rather, it’s complex and enables increasing complexity of thought, especially when you take notes that span multiple disciplines. It’s not something that you need to get perfect the moment you start it. In fact, those that use it tend to discourage that attitude of perfectionism which can make note taking a very unenjoyable and laborious process.<d-footnote>see eg. Vik (2020)</d-footnote>
+Some of my students shared methods that they use that allow them to interlink ideas and sort them into their short run and long run usefulness. The problem with some of these approaches is generally that they increase in complexity as time progresses and they take lots of time to prepare. Wouldn’t it be nice to have a method that remains simple and scalable over time? This is where the slip-note method, so some variation therein, comes into play. This is a method where you stack new notes on top of each other, and connect them as you go. I like to think of this as ‘knowledge management on the go’. It’s a complex system, to be sure, but not in a way that necessarily grows unmanageable. Rather, it's conceptually complex and enables increasing complexity of thought, especially when you take notes that span multiple disciplines. It’s not something that you need to get perfect the moment you start it. In fact, those that use it tend to discourage that attitude of perfectionism which can make note taking a very unenjoyable and laborious process.<d-footnote>see eg. Vik (2020)</d-footnote>
 
 
 
 
 #### III. Taking Notes with Obsidian
 
-There are a handful of tools that facilitate this structure. While any application will do, my experience is that tools that enable you to tag or link notes with each other are best suited to this method. My preferred app is [Obsidian](https://obsidian.md/download) (yes, I am one of those cultists) because it makes it easy to write notes and use tagging systems to link these notes together as you progress, allowing its users to take notes to serve a present day purpose and a long run purpose without needing to spend substantial time and energy sorting these notes, and without significantly increasing the complexity of managing these notes and organizing them together as time progresses. It’s also open source, with a [substantial community](https://forum.obsidian.md), a grand number of [plugins](https://obsidian.md/plugins), and several helpful commentators.<d-footnote>my favorite commentator is <a href="https://www.youtube.com/c/nicolevanderhoeven">Nicole van der Hoeven</a></d-footnote> I encourage (but don’t require) my students to try it out, especially if they are considering law school and becoming legal practitioners, given that even practitioners have to work with knowledge, and it's especially true for those who want to go to law school and become legal scholars, because the vast majority of their work will be involved with knowledge management and expertise around a subject matter.
+There are a handful of tools that facilitate this structure. While any application will do, my experience is that tools that enable you to tag or link notes with each other are best suited to this method. My preferred app is [Obsidian](https://obsidian.md/download) (yes, I am one of those cultists) because it makes it easy to write notes and use tagging systems to link these notes together as you progress, allowing its users to take notes to serve a present day purpose and a long run purpose without needing to spend substantial time and energy sorting these notes, and without significantly increasing the complexity of managing these notes and organizing them together as time progresses. It’s also open source, with a [substantial community](https://forum.obsidian.md), a grand number of [plugins](https://obsidian.md/plugins), and several helpful commentators.<d-footnote>my favorite commentator is <a href="https://www.youtube.com/c/nicolevanderhoeven">Nicole van der Hoeven</a></d-footnote>  I encourage (but don’t require) my students to try it out, especially if they are considering law school and becoming legal practitioners, given that even practitioners have to work with knowledge, and it's especially true for those who want to go to law school and become legal scholars, because the vast majority of their work will be involved with knowledge management and expertise around a subject matter.
 
-I am an interdisciplinary fellow with interests and expertise that span the arts and humanities, law and the social sciences, and computer science. As such, the note taking system that I’ve built does its best to (at least) accommodate these and (at best) allow them each to contribute to growths in the global complexity of thought I’m able to achieve. I also maintain a lively correspondence with a wide range of people who also try to address a similar set of knowledge management problems - at least, atmospherically similar, though the particular textures of their interests and goals may vary from each other and also from mine. Variety, however, is the spice of life, and I think that talking about my system with other people with different attitudes towards notes and different particular interests has allowed me to understand myself better and refine my system to better conform to my needs.
+I am an interdisciplinary fellow with interests and expertise that span the arts and humanities, law and the social sciences, and computer science. As such, the note taking system that I’ve built does its best to (at least) accommodate these and (at best) allow them each to contribute to growth in the global complexity of thought I’m able to achieve. I also maintain a lively correspondence with a wide range of people who also try to address a similar set of knowledge management problems - at least, atmospherically similar, though the particular textures of their interests and goals may vary from each other and also from mine. Variety, however, is the spice of life, and I think that talking about my system with other people with different attitudes towards notes and different particular interests has allowed me to understand myself better and refine my system to better conform to my needs.
 
 If you’ve read this far, I will assume you are open to trying out Obsidian. If so, I’ve included a few subsections below for you to consider when developing your personal knowledge management system. To illustrate how these ideas play out in practice, let’s consider Jade Law, a second-year law student looking to revamp her note-taking approach.
 
-#### a. tags, links, and a dusting of organization.
+#### a. tags, links, and a dusting of organization
 
 Jade is tired of using Google Drive to organize her notes. In the past, she would create a separate folder for each of her classes, and store her notes in a single, very large Google Doc outline, with readings and slides stored separately in the same folder. When exam time rolls around, she struggles to cross-reference her notes against each individual set of slides, and after the semester is done, the large Google Doc outline is hard to search and sits obliquely, ignored forever more. Within her outline, she would create headers by class date, and then she’d create a topical outline at the top of the document around exam time to re-arrange information best suited to prepare her for her final assessment. 
 
-Tired of this approach, she downloads Obsidian and creates a set of folders to cover cases, concepts, people, meetings, and class notes, see the image below. This is what I refer to as a ‘dusting of organization’ - a terminology I’m adapting from a particularly apt blog post by Joel Spolsky.<d-footnote>Spolsky (2018)</d-footnote> What I mean by this is that, as a human with limited capacity to make sense visual information before I become distracted and overwhelmed, I prefer using a slight-but-unobtrusive set of folders to create organizational barriers to information, such that I can understand the list of files that I’m staring at in any given situation. This directory hierarchy need not, and probably should not, recurse too deeply, since that works against the easy availability of information. But, it can if that’s how you like it. 
+Tired of this approach, she downloads Obsidian and creates a set of folders to cover cases, concepts, people, meetings, and class notes, see the image below. This is what I refer to as a ‘dusting of organization’ - a terminology I’m adapting from a particularly apt blog post by Joel Spolsky.<d-footnote>Spolsky (2018)</d-footnote>  What I mean by this is that, as a human with limited capacity to make sense of visual information before I become distracted and overwhelmed, I prefer using a slight-but-unobtrusive set of folders to create organizational barriers to information, such that I can understand the list of files that I’m staring at in any given situation. This directory hierarchy need not, and probably should not, recurse too deeply, since that works against the easy availability of information. But, it can if that’s how you like it. 
 
 
 <div class="row mt-3">
@@ -62,7 +62,7 @@ Tired of this approach, she downloads Obsidian and creates a set of folders to c
 </div>
 
 
-Just as soon as soon as Jade has created this set of folders into which to sort her relevant notes and documents, she begins to break those barriers down by employing a set of tags and links to other files, so that the interlinks between different ideas can begin to manifest. For example, she begins writing a note on the Supreme Court case Brady v. Maryland for her criminal law course. In it, she adds a tag for the `#brady-rule` so that she can reference this idea in future notes. She also links the document to a separate note she’s previously written on the Warren Court, since she’d like to keep track of the cases she reads that was decided during that period. She adds this to the ‘frontmatter’ of the note by typing `---` on the first line of her note on Brady v. Maryland, which opens an interface like the one you can see in the image below. She then adds a link by typing `[[Warren Court]]` into the field she’s created for this value, which creates a link. She has now created a bi-directional link between two notes. This is another way in which this system allows her thinking to grow in complexity without necessarily increasing the complexity of managing the system itself. 
+Just as soon as Jade has created this set of folders into which to sort her relevant notes and documents, she begins to break those barriers down by employing a set of tags and links to other files, so that the interlinks between different ideas can begin to manifest. For example, she begins writing a note on the Supreme Court case Brady v. Maryland for her criminal law course. In it, she adds a tag for the `#brady-rule` so that she can reference this idea in future notes. She also links the document to a separate note she’s previously written on the Warren Court, since she’d like to keep track of the cases she reads that were decided during that period. She adds this to the ‘frontmatter’ of the note by typing `---` on the first line of her note on Brady v. Maryland, which opens an interface like the one you can see in the image below. She then adds a link by typing `[[Warren Court]]` into the field she’s created for this value, which creates a link. She has now created a bi-directional link between two notes. This is another way in which this system allows her thinking to grow in complexity without necessarily increasing the complexity of managing the system itself. 
 
 
 <div class="row mt-3">
@@ -97,7 +97,7 @@ Around exam time, Jade can use an efficient keyword search for topics to track d
     </div>
 </div>
 <div class="caption">
-    The graph view in Obsidian visualizing connections between notes (source: author)
+    The graph view in Obsidian visualizing connections between notes and tags (source: author)
 </div>
 
 
@@ -123,7 +123,7 @@ I generally recommend four basic plugins for Obsidian, which I’ve described at
 3. Dataview - a system that allows you to run SQL-like queries against notes and their metadata, allowing you to generate eg. dynamic lists of notes that use a particular tag, meetings with a particular person, or notes written within a certain date range.
 4. Omnisearch - this is a much more powerful alternative to the default search feature, and allows you to get much more out of your searches generally. Sometimes, when you use Obsidian with Git (more on this in a subsequent section), this plugin can force a file database reindex when the application starts up, which can take a few additional seconds. 
 
-The broader point, however, is that there is a whole universe of plugins that you’re able to choose from to extend the base functionality of Obsidian. One of the benefits of the system being open source is that the ecosystem is easy to extend. My claim here is that a notetaking application that cannot be easily extended is not really useful in the general sense, because everyone has a different set of overarching concerns, aesthetic preferences, and configuration needs that necessitate customization. The forum and commentators like Nicole van der Hoeven, both referenced earlier in this essay, are both great resources for discovering new plugins. For the purpose of the hypothetical, we’ll say that Jade installs the four plugins listed above. 
+The broader point, however, is that there is a whole universe of plugins that you’re able to choose from to extend the base functionality of Obsidian. One of the benefits of the system being open source is that the ecosystem is easy to extend. My claim here is that a notetaking application that cannot be easily extended is not really useful, because everyone has a different set of overarching concerns, aesthetic preferences, and configuration needs that necessitate customization. The forum and commentators like Nicole van der Hoeven, both referenced earlier in this essay, are both great resources for discovering new plugins. For the purpose of the hypothetical, we’ll say that Jade installs the four plugins listed above. 
 
 #### c. when to use dates in your note titles
 
@@ -137,7 +137,7 @@ WARNING: the following section includes advanced techniques. Continue at your ow
 
 Sometimes, it’s useful to generate groups of notes ahead of time. For example, if you receive a course syllabus that lists the topics and readings for each day of class, then you can use that to generate a list of notes before the first day of class. This also reduces administrative complexity as the semester progresses by allowing you to create a structure of notes beforehand that you can fill in as you go. Let’s say you want to implement this using python. You can start by creating a dictionary of course dates, as in the snippet below. I typically use the class dates as keys for this dictionary, though you’re free to restructure this however you choose. 
 
-
+````markdown
 ```python
 import datetime
 import os
@@ -151,11 +151,11 @@ class_days = {
     ...
 }
 ```
-
+````
 
 Next, we will want to define a function to create a markdown file. We plan to pass it a handful of params, like the date for a given class, the contents of the dictionary we defined above, and then (optionally) links to the next and previous class, which can create easy visual tools for cycling through class notes sequentially.
 
-
+````markdown
 ```python
 # Here we define a function to create the markdown file
 def create_markdown_file(date_str, content, previous_class=None, next_class=None):
@@ -182,11 +182,11 @@ tags:
         file.write(markdown_header)
         file.write(markdown_body)
 ```
-
+````
 
 To implement this function for each class identified in the `class_days` dictionary above, we can run the following logic:
 
-
+````markdown
 ```python
 # We sort the dates sequentially
 previous_class = None
@@ -200,7 +200,7 @@ for i, date_str in enumerate(sorted_dates):
     create_markdown_file(date_str, content, previous_class, next_class) 
     previous_class = date_str # for the next iteration, we set the date from the current iteration to the previous_class date for the next iteration... pretty nice, huh?
 ```
-
+````
 
 Add this all together, et voila. You have a list of classes for your entire semester of election law. Not only that, but you have the readings and topic pre-loaded, though you mileage may vary since some professors will sometimes make changes to these parts of the class as the semester progresses. Additionally, the `next_class` and `previous_class` elements will show up in the frontmatter of your notes and allow you cycle through class date sequentially, which can be a substantial quality-of-life improvement.
 
