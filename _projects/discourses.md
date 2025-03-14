@@ -2,7 +2,7 @@
 layout: page
 title: Civil War Discourses on Sulla, Caesar, and Liberty
 description: I have been interested in discourses on Sulla, Caesar, and *libertas* for many years and have several ongoing research efforts that fall under this broader project.
-# img: assets/img/12.jpg
+img: assets/img/discourses.jpeg
 importance: 1
 category: classics
 # related_publications: einstein1956investigations, einstein1950meaning
