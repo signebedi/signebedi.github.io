@@ -3,7 +3,7 @@ layout: distill
 title: how i take notes
 date: 2025-03-12
 description: and why you should care
-tags: pedagogy
+tags: pedagogy code
 categories: essays
 related_posts: false
 giscus_comments: true
@@ -13,6 +13,16 @@ authors:
     affiliations:
       name: University of Wisconsin-Madison
 bibliography: general_bibliography.bib
+toc:
+  - name: I. Law as Knowledge Management
+  - name: II. Competing Goals and the Slip Box Method
+  - name: III. Taking Notes with Obsidian
+    subsections:
+      - name: a. tags, links, and a dusting of organization
+      - name: b. plugins, plugins, plugins
+      - name: c. when to use dates in your note titles
+      - name: d. automate the boring stuff
+      - name: e. conclusions, etc
 ---
 
 
@@ -130,14 +140,14 @@ I like to use dates in the title of some notes that I take that are ephemeral in
 This distinction eventually grows more important when you have multiple notes referencing the same set of ideas, court cases, work products, or people. Eventually, you'll want to develop a central collection point where you can dynamically list the content of the notes that meet some criteria. For example, let's say Jade has a weekly meeting with a supervising professor as part of a research project she is completing for course credit. She might have a series of meetings where they discuss the topic of the research, and the work product she is completing to satisfy requirements to earn credit. She could choose to write these notes as ephemeral meeting notes, using a naming convention like "YYYY-MM-DD Professor Name" to name these files. She can then use tags, linked references, and tools like the Dataview plugin listed above to create permanent notes that consolidate all these ephemeral notes into a permanent location, ensuring a single point of reference and reducing confusion.
 
 
-#### d. python snippets and other automations
+#### d. automate the boring stuff
 
 
 {% details A brief warning about the following section %}
 The following section includes advanced techniques and presumes the reader's familiarity with basic programming principles and tools like the Python programming language and Git. Continue at your own peril.
 {% enddetails %}
 
-Sometimes, it’s useful to generate groups of notes ahead of time. For example, if you receive a course syllabus that lists the topics and readings for each day of class, then you can use that to generate a list of notes before the course even begins. This also reduces administrative complexity as the semester progresses by allowing you to create a structure of notes beforehand that you can fill in as you go. Let’s say you want to implement this using python. You can start by creating a dictionary of course dates, as in the snippet below. I typically use the class dates as keys for this dictionary, though you’re free to restructure this however you choose. 
+Like Al Sweigart's *Automate the Boring Stuff with Python*, the goal of this section is to provide some conventions and throwaway code snippets to help you automate some of the note management steps that, if done manually, take up our precious time and mental resources. For example, it’s useful to generate groups of notes ahead of time when possible. For example, if you receive a course syllabus that lists the topics and readings for each day of class, then you can use that to generate a list of notes before the course even begins. This also reduces administrative complexity as the semester progresses by allowing you to create a structure of notes beforehand that you can fill in as you go. Let’s say you want to implement this using python. You can start by creating a dictionary of course dates, as in the snippet below. I typically use the class dates as keys for this dictionary, though you’re free to restructure this however you choose. 
 
 
 ```python
@@ -222,14 +232,14 @@ I won’t expound too greatly on the great successes that Jade finds after law s
 
 
 <div style="display: none;">
-<d-cite key="georgetown2020legalacademy"></d-cite>
-<d-cite key="ahrens2017smartnotes"></d-cite>
-<d-cite key="carnegie2007educating"></d-cite>
-<d-cite key="forte2022building"></d-cite>
-<d-cite key="ginter2019ulysses"></d-cite>
-<d-cite key="vik2020zettelkasten"></d-cite>
-<d-cite key="spolsky2018gamification"></d-cite>
-</div> 
-
+  <d-cite key="ahrens2017smartnotes"></d-cite>
+  <d-cite key="carnegie2007educating"></d-cite>
+  <d-cite key="forte2022building"></d-cite>
+  <d-cite key="georgetown2020legalacademy"></d-cite>
+  <d-cite key="ginter2019ulysses"></d-cite>
+  <d-cite key="spolsky2018gamification"></d-cite>
+  <d-cite key="sweigart2020automate"></d-cite>
+  <d-cite key="vik2020zettelkasten"></d-cite>
+</div>
 
 
