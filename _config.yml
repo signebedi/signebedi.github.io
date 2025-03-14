@@ -219,12 +219,12 @@ exclude:
   - _projects/6_project.md
   - ._old_posts
   # - _pages/about.md
-  # - _pages/cv.md
+  - _pages/cv.md
   - _pages/dropdown.md
   # - _pages/projects.md
   - _pages/publications.md
   # - _pages/repositories.md
-  - _pages/teaching.md
+  # - _pages/teaching.md
 
 keep_files:
   - CNAME
