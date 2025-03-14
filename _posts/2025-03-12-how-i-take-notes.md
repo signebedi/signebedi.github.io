@@ -143,11 +143,11 @@ This distinction eventually grows more important when you have multiple notes re
 #### d. automate the boring stuff
 
 
-{% details A brief warning about the following section %}
+{% details A brief note about the following section %}
 The following section includes advanced techniques and presumes the reader's familiarity with basic programming principles and tools like the Python programming language and Git. Continue at your own peril.
 {% enddetails %}
 
-Like Al Sweigart's *Automate the Boring Stuff with Python*, the goal of this section is to provide some conventions and throwaway code snippets to help you automate some of the note management steps that, if done manually, take up our precious time and mental resources. For example, it’s useful to generate groups of notes ahead of time when possible. For example, if you receive a course syllabus that lists the topics and readings for each day of class, then you can use that to generate a list of notes before the course even begins. This also reduces administrative complexity as the semester progresses by allowing you to create a structure of notes beforehand that you can fill in as you go. Let’s say you want to implement this using python. You can start by creating a dictionary of course dates, as in the snippet below. I typically use the class dates as keys for this dictionary, though you’re free to restructure this however you choose. 
+Like Al Sweigart's *Automate the Boring Stuff with Python*, the goal of this section is to provide some conventions and throwaway code snippets to help you automate some of the note management steps that, if done manually, take up precious time and mental resources. For example, it’s useful to generate groups of notes ahead of time when possible. For example, if you receive a course syllabus that lists the topics and readings for each day of class, then you can use that to generate a list of notes before the course even begins. This also reduces administrative complexity as the semester progresses by allowing you to create a structure of notes beforehand that you can fill in as you go. Let’s say you want to implement this using python. You can start by creating a dictionary of course dates, as in the snippet below. I typically use the class dates as keys for this dictionary, though you’re free to restructure this however you choose. 
 
 
 ```python
