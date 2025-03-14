@@ -3,7 +3,7 @@ layout: distill
 title: how i take notes
 date: 2025-03-12
 description: and why you should care
-tags: meta
+tags: pedagogy
 categories: essays
 related_posts: false
 giscus_comments: true
