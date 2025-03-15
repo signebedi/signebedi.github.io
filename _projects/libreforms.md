@@ -1,7 +1,7 @@
 ---
 layout: page
 title: libreforms
-description: 
+description: A set of open-source web applications written in python that function as abstract and flexible form management software.
 importance: 1
 category: technology
 # related_publications: einstein1956investigations, einstein1950meaning
