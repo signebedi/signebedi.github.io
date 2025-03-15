@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a classicist, social scientist, and software engineer with interests in crisis, caste, and institutions. I have an additional, narrow-ish academic focus on the historiography and political culture of the Roman late-republic, especially as these topics relate to discourses, narratives, and intellectual traditions on the core personages and ideas of that period. I enjoy reading and writing literature, particularly poetry and science fiction. I am a RedHat Certified System Administrator with about fifteen years experience managing Unix systems, developing software, and analyzing data. I've taught a variety of classes in political science and legal studies. All views are my own.
+I am a classicist, social scientist, and software engineer with interests in crisis, caste, and institutions. I have an additional, narrow-ish academic focus on the historiography and political culture of the Roman late-republic, especially as these topics relate to discourses, narratives, and intellectual traditions on the core personages and ideas of that period. I enjoy reading and writing poetry & science fiction. I am a RedHat Certified System Administrator with about fifteen years experience managing Unix systems, developing software, and analyzing data. I've taught a variety of classes in political science and legal studies. All views are my own.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
