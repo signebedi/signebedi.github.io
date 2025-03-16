@@ -13,6 +13,11 @@ authors:
     affiliations:
       name: University of Wisconsin-Madison
 bibliography: general_bibliography.bib
+toc:
+  - name: I. The Horse Race
+  - name: II. The Caduceus
+  - name: III. Wedges
+  - name: IV. The Ouroboros
 ---
 
 I have the distinct pleasure of teaching a course this semester on how liberalism and conservatism shaped American history. Part of the difficulty of teaching this subject is in helping students understand how and why the underlying concepts change over time. This presents an interesting "teaching methods" challenge that I've contemplated throughout the semester and struggled to find a good solution for. 
@@ -25,7 +30,7 @@ Another approach, however, would be using heuristics to simplify complex ideas. 
 
 I'm writing this post *in media res* (with mixed feelings about my students reading it) because doing so has been helpful in developing these abstractions further, as well as a language to discuss them with my students. It's important to note, however - and I hope my students understand this - that these are only a shorthand primarily rooted in the American context, and the interpretations of liberalism and conservatism presented here may grate with other academic, especially non-American perspectives on the same.
 
-#### I. The horse race
+#### I. The Horse Race
 
 The first problem I've experienced in teaching liberalism and conservatism is, put simply, why neither of these ideas look exactly the same as they did in the past. As an example: Adam Smith's liberalism placed, I think, a far greater emphasis on free markets than today's liberalism, which has adopted intervention as a core tenet. To square this circle, we would probably need to reach two conclusions: first, that liberalism outpaces conservatism; second, that conservatism is nonetheless also a "moving" idea that changes over time, though probably not at the same pace as liberalism. I find that this is best illustrated by the analogy of a horse race: if liberalism and conservatism were two horses that, for the purpose of the discussion, are situated at the same starting gate, then which horse will outpace the other at any arbitrary time?
 
@@ -40,7 +45,7 @@ The first problem I've experienced in teaching liberalism and conservatism is, p
 
 If you put your money on liberalism, then you've correctly made sense of the analogy. But, a more challenging question: does the fact that liberalism outpaces conservatism mean that the conservatism horse never left the starting post? Of course not. Conservatism generally tries to keep pace with the faster horse, but never passes it because, to convervatives, the race is not necessarily to the fastest. Perhaps, to take this analogy a bit further, conservatism wishes that the race were oriented in the opposite direction, but at the same time doesn't want to be left too far behind by the faster horse running the other way. Thus, we see conservatism today adopt all manner of ideas that, in the 19th Century, might have seemed alien to those who identified with that label.
 
-#### II. Caduceus
+#### II. The Caduceus
 
 The second teaching problem I've experienced is why the two ideas seem sometimes to leverage similar language and ideas, or might be used to justify the same policies, despite differing significantly in their intellectual tradition and worldview. A good way to think about this might be that liberalism and conservatism are not ideas that exist in a vacuum - their scholars read each other's work and respond to the same events, and intertexts are inevitable when given enough time. A useful way to visualize how concepts might converge is the image of the caduceus, a symbol that depicts two snakes wrapped around a staff and conveys a sense of mediation and diplomacy. Beyond my personal predilection for the classics, I've found that students are also interested in the strange symbols from antiquity and think that the novelty of the image helps grab and keep their attention. 
 
@@ -86,7 +91,7 @@ But what are these liminal controversies? I think there are probably too many to
     Illustration of issue-based divergence (source: author)
 </div>
 
-#### IV. Ouroboros
+#### IV. The Ouroboros
 
 The previous conceptualizations presume that knowledge, culture, and institutions are constantly moving forward. However, this linear progression doesn't always hold true in the real world. Ideas don't just move forward; they also circle back, revisiting and reinterpreting past concepts. This leads us to a third teaching problem: why the ideas often seem to hearken back or revert to past approaches. Admittedly, this phenomenon is something that will become more apparent in discussions of more recent events as we are able to observe how history sometimes "repeats itself." For example, debates around the First National Bank were largely focused on constitutional interpretation, but later debates were able to leverage experience and history as evidence for or against the bank's rechartering.
 

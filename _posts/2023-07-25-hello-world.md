@@ -13,7 +13,13 @@ authors:
     affiliations:
       name: University of Wisconsin-Madison
 bibliography: general_bibliography.bib
+toc:
+  - name: I. Objects
+  - name: II. Masks
+  - name: III. Flow
+  - name: IV. Interfaces
 ---
+
 A few weeks ago, I was very grateful to find myself backpacking on the [Superior Hiking Trail](https://superiorhiking.org/trail-section/silver-bay-to-caribou-river-wayside/) and had the chance to relax with my group at a campground off the Beaver River, in an area north of Two Harbors, MN. I spent some time submerged in the water and attuning myself to the tranquil sounds of birdsong, the rustling of leaves in the wind, and the water lapping against nearby stones. In the overwhelming synchronicity of the moment, a few thoughts crossed my mind that I hope you'll permit me to share here.
 
 <div class="row mt-3">
@@ -97,7 +103,7 @@ Take, for example, my decision to start this blog. In many ways, doing so is ant
 
 #### IV. Interfaces
 
-I am somebody who primarily views the world through the lens of interfaces. Facilitating interconnectivity between things that are understood to be different-in-kind is a deeply pleasing process that is, to me, its own reward. The concept of an interface is typically applied to man-made systems, instruments, and ideas; but this concept is useful in other areas of life. What I appreciated about the moment I spent in the Beaver River was the sparks of interconnectivity I felt between myself and the world around me, and it was my attention to the world around me that fastened me to it in that moment. Throughout my life, I have often drunk when I was thirsty and clothed myself when I was cold but, in the theme of Wallace's essay, this was a rare moment where I could recognize that it was indeed water that I was swimming in. I sat in the Beaver River for awhile before, standing up, I felt a warm breeze wrap itself around my body, recalling a verse I had memorized for a high school English class. <d-footnote>Chaucer (c. 1400). 1.1.</d-footnote>
+I am somebody who primarily views the world through the lens of interfaces. Facilitating interconnectivity between things that are understood to be different-in-kind is a deeply pleasing process that is, to me, its own reward. The concept of an interface is something we typically apply to man-made systems, instruments, and ideas; but this concept is useful in other areas of life. What I appreciated about the moment I spent in the Beaver River was the sparks of interconnectivity I felt between myself and the world around me, and it was my attention to the world around me that fastened me to it in that moment. Throughout my life, I have often drunk when I was thirsty and clothed myself when I was cold but, in the theme of Wallace's essay, this was a rare moment where I could recognize that it was indeed water that I was swimming in. I sat in the Beaver River for awhile before, standing up, I felt a warm breeze wrap itself around my body, recalling a verse from high school English. <d-footnote>Chaucer (c. 1400). 1.1.</d-footnote>
 
 <div class="poem">
     <div class="stanza">
