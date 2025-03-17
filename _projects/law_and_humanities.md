@@ -4,7 +4,7 @@ title: Law and the Humanities
 description: How the theory and practice of law intersects with humanist approaches to art and interpretation.
 importance: 2
 category: social sciences
-# related_publications: einstein1956investigations, einstein1950meaning
+related_publications: janoskabedi2025notes
 ---
 
 
