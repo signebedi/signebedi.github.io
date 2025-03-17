@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Plutarch, Biography, and the Roman Civil War Lives
-description: I am interested in how Plutarch's Roman Lives, especially those whose subjects participated in the Civil Wars, can help us understand the development of Roman political biography as a genre. 
+description: Analyzing Plutarch's Roman 'Civil War' Lives, his sources, and Roman political biography as a genre. 
 importance: 2
 category: classics
 # related_publications: einstein1956investigations, einstein1950meaning

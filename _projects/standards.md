@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Technical Standards and Governance
-description: I am contributing to the development of modern technical standards for cutting-edge technologies that have illustrated the limitations of traditional approaches to IT governance.
+description: Approaching technical standards for cutting-edge technologies that have illustrated the limitations of traditional approaches to IT governance.
 importance: 1
 category: social sciences
 # related_publications: einstein1956investigations, einstein1950meaning

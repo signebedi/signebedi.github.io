@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Civil War Discourses on Sulla, Caesar, and Liberty
-description: I have been interested in discourses on Sulla, Caesar, and libertas for many years and have several ongoing research efforts that fall under this broader project.
+description: Exploring the development of discourses on Sulla, Caesar, cruelty, and libertas during the Roman late-republic.
 # img: assets/img/discourses.jpeg
 importance: 1
 category: classics
