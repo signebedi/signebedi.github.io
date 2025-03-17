@@ -10,7 +10,7 @@ category: technology
 
 <hr>
 
-Since about 2022, I have been working on an open-source project called libreforms, which implements a specification I wrote under the same name that combines a form configuration language and an associated API that is optimized for managing institutional forms over a network. The point of the projects is to save bureaucracies from becoming The Place That Sends You Mad.
+Since about 2022, I have been working on an open-source project called libreforms, which implements a specification I wrote under the same name that combines a form configuration language and an associated API that is optimized for managing institutional forms over a network. The point of the project is to save bureaucracies from becoming The Place That Sends You Mad.
 
 [The Place That Sends You Mad](https://asterix.fandom.com/wiki/The_Place_That_Sends_You_Mad) is a bureaucratic office building from "The Twelve Tasks of Asterix" where Asterix and Obelix must obtain a Permit A-38 by navigating a maze of offices and unhelpful staff. Ultimately, they only succeed when Asterix invents a fake permit that throws the entire bureaucracy into chaos, forcing the supervisor to issue the permit before himself going mad.
 
