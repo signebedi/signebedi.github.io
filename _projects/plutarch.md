@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Plutarch, Biography, and the Roman Civil War Lives
+title: Plutarch's Roman Civil War Lives
 description: Analyzing Plutarch's Roman 'Civil War' Lives, his sources, and Roman political biography as a genre. 
 importance: 2
 category: classics

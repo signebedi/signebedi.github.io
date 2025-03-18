@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technical Standards and Governance
+title: Technical Standards
 description: Approaching technical standards for cutting-edge technologies that have illustrated the limitations of traditional approaches to IT governance.
 importance: 1
 category: social sciences
